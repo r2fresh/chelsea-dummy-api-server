@@ -17,770 +17,3645 @@
     {
       "productId": 1,
       "productName": "1 Agile 프로젝트",
-      "regDate": "2020-02-14T23:03:44.583Z",
-      "updateDate": "2019-06-01T03:06:16.774Z",
-      "tagNames": [
-        "De-engineered",
-        "강원",
-        "Shoes",
-        "driver",
-        "Business-focused"
-      ]
+      "regDate": "2020-03-24T07:02:49.563Z",
+      "updateDate": "2019-09-23T07:38:12.191Z",
+      "productTags": ["protocol", "Cross-platform", "면", "channels"],
+      "productMemberDtos": [
+        {
+          "productId": 1,
+          "productName": "1 Agile 프로젝트",
+          "roleId": 0,
+          "roleName": "Product Manager",
+          "userId": 10419804,
+          "teamName": "GIT플랫폼개발TF",
+          "userName": "김원률"
+        },
+        {
+          "productId": 1,
+          "productName": "1 Agile 프로젝트",
+          "roleId": 0,
+          "roleName": "Product Manager",
+          "userId": 10518414,
+          "teamName": "Connected car 글로벌사업2팀",
+          "userName": "한정주"
+        },
+        {
+          "productId": 1,
+          "productName": "1 Agile 프로젝트",
+          "roleId": 0,
+          "roleName": "Product Manager",
+          "userId": 10769028,
+          "teamName": "5지아이오티플랫폼개발티에프",
+          "userName": "김찬영"
+        },
+        {
+          "productId": 1,
+          "productName": "1 Agile 프로젝트",
+          "roleId": 0,
+          "roleName": "Product Manager",
+          "userId": 10134628,
+          "teamName": "AI단말SW개발TF",
+          "userName": "김영현"
+        }
+      ],
+      "productMemberTotal": 4
     },
     {
       "productId": 2,
       "productName": "1 ITMS 연동 프로젝트 Base",
-      "regDate": "2019-09-05T07:30:12.513Z",
-      "updateDate": "2020-02-03T23:56:00.098Z",
-      "tagNames": ["Avon", "paradigms", "sky blue", "plug-and-play"]
+      "regDate": "2019-11-27T19:21:35.170Z",
+      "updateDate": "2019-11-07T16:52:11.845Z",
+      "productTags": [
+        "Ergonomic",
+        "Rand Namibia Dollar",
+        "calculating",
+        "artificial intelligence",
+        "AI"
+      ],
+      "productMemberDtos": [
+        {
+          "productId": 2,
+          "productName": "1 ITMS 연동 프로젝트 Base",
+          "roleId": 3,
+          "roleName": "Agile Coach",
+          "userId": 10778360,
+          "teamName": "SW아키텍처TF",
+          "userName": "정용섭"
+        },
+        {
+          "productId": 2,
+          "productName": "1 ITMS 연동 프로젝트 Base",
+          "roleId": 3,
+          "roleName": "Agile Coach",
+          "userId": 10057141,
+          "teamName": "Kim",
+          "userName": "Hyungkyung"
+        },
+        {
+          "productId": 2,
+          "productName": "1 ITMS 연동 프로젝트 Base",
+          "roleId": 3,
+          "roleName": "Agile Coach",
+          "userId": 10355682,
+          "teamName": "Connected Car 플랫폼 TF",
+          "userName": "김성화"
+        },
+        {
+          "productId": 2,
+          "productName": "1 ITMS 연동 프로젝트 Base",
+          "roleId": 3,
+          "roleName": "Agile Coach",
+          "userId": 10076301,
+          "teamName": "스마트모빌리티TF",
+          "userName": "김선민"
+        },
+        {
+          "productId": 2,
+          "productName": "1 ITMS 연동 프로젝트 Base",
+          "roleId": 3,
+          "roleName": "Agile Coach",
+          "userId": 10586492,
+          "teamName": "AI개발PTF",
+          "userName": "박기철"
+        }
+      ],
+      "productMemberTotal": 5
     },
     {
       "productId": 3,
       "productName": "1 SI_Project_메뉴",
-      "regDate": "2019-07-12T13:05:14.486Z",
-      "updateDate": "2019-12-16T17:54:12.394Z",
-      "tagNames": []
+      "regDate": "2020-03-15T12:13:35.894Z",
+      "updateDate": "2019-07-27T19:17:53.503Z",
+      "productTags": ["Product", "Automotive", "Chief"],
+      "productMemberDtos": [
+        {
+          "productId": 3,
+          "productName": "1 SI_Project_메뉴",
+          "roleId": 3,
+          "roleName": "Agile Coach",
+          "userId": 10697644,
+          "teamName": "AI에너지플랫폼개발TF",
+          "userName": "김석우"
+        },
+        {
+          "productId": 3,
+          "productName": "1 SI_Project_메뉴",
+          "roleId": 3,
+          "roleName": "Agile Coach",
+          "userId": 10062513,
+          "teamName": "GiGAtwin Project",
+          "userName": "정원우"
+        },
+        {
+          "productId": 3,
+          "productName": "1 SI_Project_메뉴",
+          "roleId": 3,
+          "roleName": "Agile Coach",
+          "userId": 10113128,
+          "teamName": "GIS서버개발TF",
+          "userName": "조혜진"
+        }
+      ],
+      "productMemberTotal": 3
     },
     {
       "productId": 4,
       "productName": "360 라이브",
-      "regDate": "2019-06-09T10:48:40.379Z",
-      "updateDate": "2020-01-02T05:53:30.263Z",
-      "tagNames": []
+      "regDate": "2019-06-12T14:46:16.438Z",
+      "updateDate": "2019-08-23T21:16:34.829Z",
+      "productTags": ["virtual", "copy", "web services", "synthesizing"],
+      "productMemberDtos": [
+        {
+          "productId": 4,
+          "productName": "360 라이브",
+          "roleId": 2,
+          "roleName": "Technical Architecture",
+          "userId": 10926235,
+          "teamName": "Kim",
+          "userName": "Hyungkyung"
+        },
+        {
+          "productId": 4,
+          "productName": "360 라이브",
+          "roleId": 2,
+          "roleName": "Technical Architecture",
+          "userId": 10633402,
+          "teamName": "글로벌OEM사업1팀",
+          "userName": "이지선"
+        },
+        {
+          "productId": 4,
+          "productName": "360 라이브",
+          "roleId": 2,
+          "roleName": "Technical Architecture",
+          "userId": 10093998,
+          "teamName": "SW개발혁신TF",
+          "userName": "박형윤"
+        },
+        {
+          "productId": 4,
+          "productName": "360 라이브",
+          "roleId": 2,
+          "roleName": "Technical Architecture",
+          "userId": 10310676,
+          "teamName": "5G IoT플랫폼개발TF",
+          "userName": "신규철"
+        }
+      ],
+      "productMemberTotal": 4
     },
     {
       "productId": 5,
       "productName": "5G AR Makers",
-      "regDate": "2020-05-15T07:33:19.335Z",
-      "updateDate": "2019-12-24T21:58:27.013Z",
-      "tagNames": ["bus"]
+      "regDate": "2020-01-13T18:10:24.460Z",
+      "updateDate": "2019-09-16T07:12:38.646Z",
+      "productTags": ["Developer", "Montserrat", "PNG"],
+      "productMemberDtos": [
+        {
+          "productId": 5,
+          "productName": "5G AR Makers",
+          "roleId": 0,
+          "roleName": "Product Manager",
+          "userId": 10779421,
+          "teamName": "GIT플랫폼개발TF",
+          "userName": "김원률"
+        },
+        {
+          "productId": 5,
+          "productName": "5G AR Makers",
+          "roleId": 0,
+          "roleName": "Product Manager",
+          "userId": 10736368,
+          "teamName": "IVI솔루션개발TF",
+          "userName": "기성범"
+        },
+        {
+          "productId": 5,
+          "productName": "5G AR Makers",
+          "roleId": 0,
+          "roleName": "Product Manager",
+          "userId": 10345928,
+          "teamName": "융합모빌리티 플랫폼개발TF",
+          "userName": "이장원"
+        }
+      ],
+      "productMemberTotal": 3
     },
     {
       "productId": 6,
       "productName": "5G Industry 플랫폼개발TF",
-      "regDate": "2019-07-22T23:09:31.574Z",
-      "updateDate": "2020-02-17T20:16:43.753Z",
-      "tagNames": []
+      "regDate": "2019-08-15T02:25:44.125Z",
+      "updateDate": "2019-12-19T23:27:07.820Z",
+      "productTags": ["seize", "synergies", "back up"],
+      "productMemberDtos": [
+        {
+          "productId": 6,
+          "productName": "5G Industry 플랫폼개발TF",
+          "roleId": 1,
+          "roleName": "SW Engineer",
+          "userId": 10749081,
+          "teamName": "Connected Car 사업운영1팀",
+          "userName": "박현자"
+        },
+        {
+          "productId": 6,
+          "productName": "5G Industry 플랫폼개발TF",
+          "roleId": 1,
+          "roleName": "SW Engineer",
+          "userId": 10224100,
+          "teamName": "사업운영1팀",
+          "userName": "김대희"
+        },
+        {
+          "productId": 6,
+          "productName": "5G Industry 플랫폼개발TF",
+          "roleId": 1,
+          "roleName": "SW Engineer",
+          "userId": 10583502,
+          "teamName": "AI단말SW개발TF",
+          "userName": "최수용"
+        }
+      ],
+      "productMemberTotal": 3
     },
     {
       "productId": 7,
       "productName": "5G Factory Makers",
-      "regDate": "2019-10-21T04:41:33.803Z",
-      "updateDate": "2019-12-16T15:24:34.295Z",
-      "tagNames": [
-        "multi-state",
-        "Gorgeous Plastic Car",
-        "mint green",
-        "cross-platform",
-        "Handcrafted Wooden Tuna"
-      ]
+      "regDate": "2019-09-11T07:03:23.787Z",
+      "updateDate": "2019-09-17T22:05:40.053Z",
+      "productTags": [
+        "Handcrafted",
+        "embrace",
+        "Algerian Dinar",
+        "Dynamic",
+        "Avon"
+      ],
+      "productMemberDtos": [
+        {
+          "productId": 7,
+          "productName": "5G Factory Makers",
+          "roleId": 2,
+          "roleName": "Technical Architecture",
+          "userId": 10839588,
+          "teamName": "5G IoT플랫폼 TF",
+          "userName": "추병조"
+        },
+        {
+          "productId": 7,
+          "productName": "5G Factory Makers",
+          "roleId": 2,
+          "roleName": "Technical Architecture",
+          "userId": 10813443,
+          "teamName": "GIS단말개발TF",
+          "userName": "정재진"
+        },
+        {
+          "productId": 7,
+          "productName": "5G Factory Makers",
+          "roleId": 2,
+          "roleName": "Technical Architecture",
+          "userId": 10937267,
+          "teamName": "스마트모빌리티TF",
+          "userName": "김선민"
+        },
+        {
+          "productId": 7,
+          "productName": "5G Factory Makers",
+          "roleId": 2,
+          "roleName": "Technical Architecture",
+          "userId": 10019290,
+          "teamName": "Connected Car 플랫폼 TF",
+          "userName": "김재용"
+        },
+        {
+          "productId": 7,
+          "productName": "5G Factory Makers",
+          "roleId": 2,
+          "roleName": "Technical Architecture",
+          "userId": 10751695,
+          "teamName": "GIS단말개발TF",
+          "userName": "문권수"
+        }
+      ],
+      "productMemberTotal": 5
     },
     {
       "productId": 8,
       "productName": "대고객 포탈",
-      "regDate": "2020-01-30T00:27:14.301Z",
-      "updateDate": "2020-02-25T21:54:21.495Z",
-      "tagNames": []
+      "regDate": "2020-05-10T23:53:43.499Z",
+      "updateDate": "2020-04-17T17:32:57.901Z",
+      "productTags": ["sexy", "Metal", "Functionality", "Yemen", "Mobility"],
+      "productMemberDtos": [
+        {
+          "productId": 8,
+          "productName": "대고객 포탈",
+          "roleId": 2,
+          "roleName": "Technical Architecture",
+          "userId": 10879502,
+          "teamName": "5G IoT 플랫폼 TF",
+          "userName": "김현주"
+        },
+        {
+          "productId": 8,
+          "productName": "대고객 포탈",
+          "roleId": 2,
+          "roleName": "Technical Architecture",
+          "userId": 10884890,
+          "teamName": "융합모빌리티 플랫폼개발TF",
+          "userName": "김낙현"
+        },
+        {
+          "productId": 8,
+          "productName": "대고객 포탈",
+          "roleId": 2,
+          "roleName": "Technical Architecture",
+          "userId": 10003784,
+          "teamName": "5G IoT플랫폼 TF",
+          "userName": "김범준"
+        },
+        {
+          "productId": 8,
+          "productName": "대고객 포탈",
+          "roleId": 2,
+          "roleName": "Technical Architecture",
+          "userId": 10391663,
+          "teamName": "GIS 단말 개발TF",
+          "userName": "박주철"
+        },
+        {
+          "productId": 8,
+          "productName": "대고객 포탈",
+          "roleId": 2,
+          "roleName": "Technical Architecture",
+          "userId": 10150019,
+          "teamName": "AI단말SW개발TF",
+          "userName": "김영현"
+        }
+      ],
+      "productMemberTotal": 5
     },
     {
       "productId": 9,
       "productName": "Dashboard Pro",
-      "regDate": "2020-04-25T17:45:35.187Z",
-      "updateDate": "2020-05-19T10:29:11.749Z",
-      "tagNames": ["payment", "Internal", "Buckinghamshire", "payment", "Cuba"]
+      "regDate": "2020-02-12T07:46:31.549Z",
+      "updateDate": "2019-08-25T01:32:18.902Z",
+      "productTags": ["morph", "Customer", "RAM", "Analyst", "Developer"],
+      "productMemberDtos": [
+        {
+          "productId": 9,
+          "productName": "Dashboard Pro",
+          "roleId": 0,
+          "roleName": "Product Manager",
+          "userId": 10568020,
+          "teamName": "GIS서버개발TF",
+          "userName": "김동식"
+        },
+        {
+          "productId": 9,
+          "productName": "Dashboard Pro",
+          "roleId": 0,
+          "roleName": "Product Manager",
+          "userId": 10111090,
+          "teamName": "GIS서버개발TF",
+          "userName": "장원철"
+        },
+        {
+          "productId": 9,
+          "productName": "Dashboard Pro",
+          "roleId": 0,
+          "roleName": "Product Manager",
+          "userId": 10412824,
+          "teamName": "GIS서버개발TF",
+          "userName": "홍성훈"
+        },
+        {
+          "productId": 9,
+          "productName": "Dashboard Pro",
+          "roleId": 0,
+          "roleName": "Product Manager",
+          "userId": 10512603,
+          "teamName": "Connected Car 플랫폼 TF",
+          "userName": "김성화"
+        },
+        {
+          "productId": 9,
+          "productName": "Dashboard Pro",
+          "roleId": 0,
+          "roleName": "Product Manager",
+          "userId": 10968899,
+          "teamName": "AI플랫폼개발TF",
+          "userName": "김홍범"
+        }
+      ],
+      "productMemberTotal": 5
     },
     {
       "productId": 10,
       "productName": "[FactoryMakers] 대고객포탈",
-      "regDate": "2019-08-13T03:40:48.340Z",
-      "updateDate": "2019-12-08T19:35:33.481Z",
-      "tagNames": []
+      "regDate": "2019-09-11T11:08:40.308Z",
+      "updateDate": "2019-09-10T19:59:20.962Z",
+      "productTags": ["Moldova"],
+      "productMemberDtos": [
+        {
+          "productId": 10,
+          "productName": "[FactoryMakers] 대고객포탈",
+          "roleId": 0,
+          "roleName": "Product Manager",
+          "userId": 10114061,
+          "teamName": "Open IoT TF",
+          "userName": "김은선"
+        }
+      ],
+      "productMemberTotal": 1
     },
     {
       "productId": 11,
       "productName": "5G IoT플랫폼",
-      "regDate": "2019-08-14T07:04:28.328Z",
-      "updateDate": "2019-08-11T17:05:17.320Z",
-      "tagNames": [
+      "regDate": "2019-07-08T16:22:25.460Z",
+      "updateDate": "2019-10-22T18:35:19.015Z",
+      "productTags": [
         "connect",
-        "Cambridgeshire",
-        "frictionless",
-        "경기",
-        "Optimization"
-      ]
+        "광주",
+        "Ergonomic Frozen Towels",
+        "제주",
+        "Officer"
+      ],
+      "productMemberDtos": [
+        {
+          "productId": 11,
+          "productName": "5G IoT플랫폼",
+          "roleId": 3,
+          "roleName": "Agile Coach",
+          "userId": 10316927,
+          "teamName": "AI에너지플랫폼개발TF",
+          "userName": "김석우"
+        },
+        {
+          "productId": 11,
+          "productName": "5G IoT플랫폼",
+          "roleId": 3,
+          "roleName": "Agile Coach",
+          "userId": 10703044,
+          "teamName": "IVI솔루션개발TF",
+          "userName": "류형근"
+        },
+        {
+          "productId": 11,
+          "productName": "5G IoT플랫폼",
+          "roleId": 3,
+          "roleName": "Agile Coach",
+          "userId": 10923765,
+          "teamName": "AI에너지개발TF",
+          "userName": "윤정섭"
+        },
+        {
+          "productId": 11,
+          "productName": "5G IoT플랫폼",
+          "roleId": 3,
+          "roleName": "Agile Coach",
+          "userId": 10560491,
+          "teamName": "5G IoT 플랫폼 TF",
+          "userName": "김현주"
+        },
+        {
+          "productId": 11,
+          "productName": "5G IoT플랫폼",
+          "roleId": 3,
+          "roleName": "Agile Coach",
+          "userId": 10948728,
+          "teamName": "5G IoT플랫폼 TF",
+          "userName": "방영우"
+        }
+      ],
+      "productMemberTotal": 5
     },
     {
       "productId": 12,
       "productName": "5G IoT 특화",
-      "regDate": "2019-12-10T20:51:14.141Z",
-      "updateDate": "2020-04-15T10:25:54.587Z",
-      "tagNames": []
+      "regDate": "2020-02-09T14:54:08.752Z",
+      "updateDate": "2019-11-04T01:12:52.933Z",
+      "productTags": ["tan", "Bedfordshire", "Cambridgeshire", "purple"],
+      "productMemberDtos": [
+        {
+          "productId": 12,
+          "productName": "5G IoT 특화",
+          "roleId": 1,
+          "roleName": "SW Engineer",
+          "userId": 10526371,
+          "teamName": "스마트공간플랫폼팀",
+          "userName": "김영일"
+        },
+        {
+          "productId": 12,
+          "productName": "5G IoT 특화",
+          "roleId": 1,
+          "roleName": "SW Engineer",
+          "userId": 10168881,
+          "teamName": "Connected Car 사업운영1팀",
+          "userName": "박현자"
+        },
+        {
+          "productId": 12,
+          "productName": "5G IoT 특화",
+          "roleId": 1,
+          "roleName": "SW Engineer",
+          "userId": 10568740,
+          "teamName": "GIS개발기획",
+          "userName": "김건도"
+        },
+        {
+          "productId": 12,
+          "productName": "5G IoT 특화",
+          "roleId": 1,
+          "roleName": "SW Engineer",
+          "userId": 10204177,
+          "teamName": "ConnectedCar플랫폼TF",
+          "userName": "이정용"
+        }
+      ],
+      "productMemberTotal": 4
     },
     {
       "productId": 13,
       "productName": "Cloud PaaS화",
-      "regDate": "2020-01-29T02:37:02.130Z",
-      "updateDate": "2019-12-19T20:45:44.574Z",
-      "tagNames": []
+      "regDate": "2019-09-12T15:43:59.783Z",
+      "updateDate": "2019-08-23T03:44:59.127Z",
+      "productTags": ["Jamaican Dollar", "JBOD", "modular", "Baby"],
+      "productMemberDtos": [
+        {
+          "productId": 13,
+          "productName": "Cloud PaaS화",
+          "roleId": 0,
+          "roleName": "Product Manager",
+          "userId": 10607598,
+          "teamName": "SW프로젝트TF",
+          "userName": "이용희"
+        },
+        {
+          "productId": 13,
+          "productName": "Cloud PaaS화",
+          "roleId": 0,
+          "roleName": "Product Manager",
+          "userId": 10008008,
+          "teamName": "5지아이오티플랫폼개발티에프",
+          "userName": "김찬영"
+        },
+        {
+          "productId": 13,
+          "productName": "Cloud PaaS화",
+          "roleId": 0,
+          "roleName": "Product Manager",
+          "userId": 10402787,
+          "teamName": "Connected Car 플랫폼 TF",
+          "userName": "김재용"
+        },
+        {
+          "productId": 13,
+          "productName": "Cloud PaaS화",
+          "roleId": 0,
+          "roleName": "Product Manager",
+          "userId": 10418963,
+          "teamName": "AI단말SW개발TF",
+          "userName": "김영현"
+        }
+      ],
+      "productMemberTotal": 4
     },
     {
       "productId": 14,
       "productName": "IoTMakers Platform",
-      "regDate": "2019-05-24T06:24:17.527Z",
-      "updateDate": "2019-09-24T05:00:29.928Z",
-      "tagNames": ["Borders", "online", "calculate", "Direct"]
+      "regDate": "2020-04-22T09:39:54.748Z",
+      "updateDate": "2019-10-27T06:48:51.694Z",
+      "productTags": ["Practical Frozen Pants"],
+      "productMemberDtos": [
+        {
+          "productId": 14,
+          "productName": "IoTMakers Platform",
+          "roleId": 2,
+          "roleName": "Technical Architecture",
+          "userId": 10690443,
+          "teamName": "IVI솔루션개발TF",
+          "userName": "기성범"
+        }
+      ],
+      "productMemberTotal": 1
     },
     {
       "productId": 15,
       "productName": "IoTMakers 기능 패치",
-      "regDate": "2019-08-13T02:26:33.000Z",
-      "updateDate": "2020-04-07T14:47:43.963Z",
-      "tagNames": ["대전"]
+      "regDate": "2019-12-16T06:20:20.741Z",
+      "updateDate": "2020-04-27T07:51:23.119Z",
+      "productTags": ["port", "Organized", "interactive"],
+      "productMemberDtos": [
+        {
+          "productId": 15,
+          "productName": "IoTMakers 기능 패치",
+          "roleId": 2,
+          "roleName": "Technical Architecture",
+          "userId": 10605824,
+          "teamName": "AI에너지플랫폼개발TF",
+          "userName": "김석우"
+        },
+        {
+          "productId": 15,
+          "productName": "IoTMakers 기능 패치",
+          "roleId": 2,
+          "roleName": "Technical Architecture",
+          "userId": 10572492,
+          "teamName": "GIS플랫폼개발TF",
+          "userName": "한근석"
+        },
+        {
+          "productId": 15,
+          "productName": "IoTMakers 기능 패치",
+          "roleId": 2,
+          "roleName": "Technical Architecture",
+          "userId": 10207271,
+          "teamName": "SW개발혁신TF",
+          "userName": "박형윤"
+        }
+      ],
+      "productMemberTotal": 3
     },
     {
       "productId": 16,
       "productName": "IoTMakers 사업 지원",
-      "regDate": "2019-11-22T03:49:12.449Z",
-      "updateDate": "2019-12-19T13:22:00.484Z",
-      "tagNames": []
+      "regDate": "2019-07-27T12:59:50.262Z",
+      "updateDate": "2020-03-29T18:37:29.430Z",
+      "productTags": ["matrices", "SAS"],
+      "productMemberDtos": [
+        {
+          "productId": 16,
+          "productName": "IoTMakers 사업 지원",
+          "roleId": 2,
+          "roleName": "Technical Architecture",
+          "userId": 10214801,
+          "teamName": "SW개발혁신TF",
+          "userName": "문경남"
+        },
+        {
+          "productId": 16,
+          "productName": "IoTMakers 사업 지원",
+          "roleId": 2,
+          "roleName": "Technical Architecture",
+          "userId": 10308456,
+          "teamName": "스마트모빌리티",
+          "userName": "김정근"
+        }
+      ],
+      "productMemberTotal": 2
     },
     {
       "productId": 17,
       "productName": "IoTWatcher",
-      "regDate": "2020-01-07T10:43:07.199Z",
-      "updateDate": "2019-05-22T06:34:32.209Z",
-      "tagNames": ["generate"]
+      "regDate": "2020-05-11T17:52:17.096Z",
+      "updateDate": "2019-08-13T21:57:06.400Z",
+      "productTags": ["PCI", "Implemented", "HTTP"],
+      "productMemberDtos": [
+        {
+          "productId": 17,
+          "productName": "IoTWatcher",
+          "roleId": 2,
+          "roleName": "Technical Architecture",
+          "userId": 10455245,
+          "teamName": "Connected Car 사업운영1팀",
+          "userName": "박현자"
+        },
+        {
+          "productId": 17,
+          "productName": "IoTWatcher",
+          "roleId": 2,
+          "roleName": "Technical Architecture",
+          "userId": 10813458,
+          "teamName": "SW프로젝트TF",
+          "userName": "이용희"
+        },
+        {
+          "productId": 17,
+          "productName": "IoTWatcher",
+          "roleId": 2,
+          "roleName": "Technical Architecture",
+          "userId": 10688453,
+          "teamName": "GIS서버개발TF",
+          "userName": "김태호 "
+        }
+      ],
+      "productMemberTotal": 3
     },
     {
       "productId": 18,
       "productName": "MachineVision",
-      "regDate": "2020-05-03T00:33:26.417Z",
-      "updateDate": "2019-06-05T00:58:46.369Z",
-      "tagNames": ["경북", "copy", "읍", "solution-oriented", "Cotton"]
+      "regDate": "2019-08-04T09:55:29.292Z",
+      "updateDate": "2020-02-03T17:33:21.005Z",
+      "productTags": [
+        "policy",
+        "Networked",
+        "Lithuania",
+        "maximize",
+        "Generic"
+      ],
+      "productMemberDtos": [
+        {
+          "productId": 18,
+          "productName": "MachineVision",
+          "roleId": 2,
+          "roleName": "Technical Architecture",
+          "userId": 10419815,
+          "teamName": "AI IoT 개발TF",
+          "userName": "백승훈"
+        },
+        {
+          "productId": 18,
+          "productName": "MachineVision",
+          "roleId": 2,
+          "roleName": "Technical Architecture",
+          "userId": 10243634,
+          "teamName": "GIS플랫폼개발TF",
+          "userName": "김민정"
+        },
+        {
+          "productId": 18,
+          "productName": "MachineVision",
+          "roleId": 2,
+          "roleName": "Technical Architecture",
+          "userId": 10395494,
+          "teamName": "스마트모빌리티TF",
+          "userName": "김선민"
+        },
+        {
+          "productId": 18,
+          "productName": "MachineVision",
+          "roleId": 2,
+          "roleName": "Technical Architecture",
+          "userId": 10593929,
+          "teamName": "GIS서버개발-TF",
+          "userName": "안지현"
+        },
+        {
+          "productId": 18,
+          "productName": "MachineVision",
+          "roleId": 2,
+          "roleName": "Technical Architecture",
+          "userId": 10203287,
+          "teamName": "IVI솔루션개발TF",
+          "userName": "기성범"
+        }
+      ],
+      "productMemberTotal": 5
     },
     {
       "productId": 19,
       "productName": "eMTC 단말 관리",
-      "regDate": "2020-01-06T10:41:13.384Z",
-      "updateDate": "2019-06-30T02:02:15.584Z",
-      "tagNames": ["Mandatory", "rich", "compress"]
+      "regDate": "2020-02-10T22:32:20.026Z",
+      "updateDate": "2020-01-12T00:12:36.236Z",
+      "productTags": [],
+      "productMemberDtos": [],
+      "productMemberTotal": 0
     },
     {
       "productId": 20,
       "productName": "플랫폼 매니저",
-      "regDate": "2020-05-03T20:36:48.736Z",
-      "updateDate": "2019-10-09T00:06:20.804Z",
-      "tagNames": ["Money Market Account"]
+      "regDate": "2019-12-01T16:46:48.898Z",
+      "updateDate": "2019-09-25T11:47:53.633Z",
+      "productTags": ["disintermediate", "Avon", "Congo", "Poland"],
+      "productMemberDtos": [
+        {
+          "productId": 20,
+          "productName": "플랫폼 매니저",
+          "roleId": 1,
+          "roleName": "SW Engineer",
+          "userId": 10110750,
+          "teamName": "AI에너지개발TF",
+          "userName": "윤정섭"
+        },
+        {
+          "productId": 20,
+          "productName": "플랫폼 매니저",
+          "roleId": 1,
+          "roleName": "SW Engineer",
+          "userId": 10401245,
+          "teamName": "5G IoT 플랫폼 TF",
+          "userName": "김현주"
+        },
+        {
+          "productId": 20,
+          "productName": "플랫폼 매니저",
+          "roleId": 1,
+          "roleName": "SW Engineer",
+          "userId": 10856162,
+          "teamName": "융합모빌리티 플랫폼개발TF",
+          "userName": "이장원"
+        },
+        {
+          "productId": 20,
+          "productName": "플랫폼 매니저",
+          "roleId": 1,
+          "roleName": "SW Engineer",
+          "userId": 10383831,
+          "teamName": "AI플랫폼개발TF",
+          "userName": "박근임"
+        }
+      ],
+      "productMemberTotal": 4
     },
     {
       "productId": 21,
       "productName": "5G스마트팩토리",
-      "regDate": "2019-08-19T16:34:35.226Z",
-      "updateDate": "2019-09-11T20:36:40.933Z",
-      "tagNames": ["navigate", "전남"]
+      "regDate": "2020-01-11T17:12:14.969Z",
+      "updateDate": "2020-03-20T20:40:59.539Z",
+      "productTags": ["maroon", "reboot", "evolve", "Awesome", "black"],
+      "productMemberDtos": [
+        {
+          "productId": 21,
+          "productName": "5G스마트팩토리",
+          "roleId": 0,
+          "roleName": "Product Manager",
+          "userId": 10508675,
+          "teamName": "5G IoT플랫폼 TF",
+          "userName": "방영우"
+        },
+        {
+          "productId": 21,
+          "productName": "5G스마트팩토리",
+          "roleId": 0,
+          "roleName": "Product Manager",
+          "userId": 10188829,
+          "teamName": "SW프로젝트TF",
+          "userName": "이용희"
+        },
+        {
+          "productId": 21,
+          "productName": "5G스마트팩토리",
+          "roleId": 0,
+          "roleName": "Product Manager",
+          "userId": 10762428,
+          "teamName": "GIS서버개발TF",
+          "userName": "송민정"
+        },
+        {
+          "productId": 21,
+          "productName": "5G스마트팩토리",
+          "roleId": 0,
+          "roleName": "Product Manager",
+          "userId": 10595081,
+          "teamName": "스마트공간 플랫폼개발TF",
+          "userName": "권영호"
+        },
+        {
+          "productId": 21,
+          "productName": "5G스마트팩토리",
+          "roleId": 0,
+          "roleName": "Product Manager",
+          "userId": 10589221,
+          "teamName": "SW아키텍처TF",
+          "userName": "김상열"
+        }
+      ],
+      "productMemberTotal": 5
     },
     {
       "productId": 22,
       "productName": "AI IoT 운영",
-      "regDate": "2019-12-14T17:14:52.231Z",
-      "updateDate": "2019-07-29T18:46:22.336Z",
-      "tagNames": ["Central", "Central", "Integration", "back up"]
+      "regDate": "2019-08-15T02:40:44.434Z",
+      "updateDate": "2019-09-29T15:04:58.010Z",
+      "productTags": ["광주", "SAS", "경기"],
+      "productMemberDtos": [
+        {
+          "productId": 22,
+          "productName": "AI IoT 운영",
+          "roleId": 0,
+          "roleName": "Product Manager",
+          "userId": 10217042,
+          "teamName": "GIS서버개발TF",
+          "userName": "채철우"
+        },
+        {
+          "productId": 22,
+          "productName": "AI IoT 운영",
+          "roleId": 0,
+          "roleName": "Product Manager",
+          "userId": 10372146,
+          "teamName": "GIT플랫폼개발TF",
+          "userName": "김원률"
+        },
+        {
+          "productId": 22,
+          "productName": "AI IoT 운영",
+          "roleId": 0,
+          "roleName": "Product Manager",
+          "userId": 10449980,
+          "teamName": "GIS서버개발TF",
+          "userName": "김동식"
+        }
+      ],
+      "productMemberTotal": 3
     },
     {
       "productId": 23,
       "productName": "ITO 운영",
-      "regDate": "2019-08-14T12:06:35.153Z",
-      "updateDate": "2019-12-31T11:32:53.087Z",
-      "tagNames": ["Associate", "plum", "Sierra Leone", "세종", "National"]
+      "regDate": "2020-02-23T17:58:41.711Z",
+      "updateDate": "2020-04-13T23:23:41.349Z",
+      "productTags": [
+        "Bedfordshire",
+        "deposit",
+        "CSS",
+        "Intranet",
+        "Handcrafted"
+      ],
+      "productMemberDtos": [
+        {
+          "productId": 23,
+          "productName": "ITO 운영",
+          "roleId": 0,
+          "roleName": "Product Manager",
+          "userId": 10345561,
+          "teamName": "SW개발혁신TF",
+          "userName": "박형윤"
+        },
+        {
+          "productId": 23,
+          "productName": "ITO 운영",
+          "roleId": 0,
+          "roleName": "Product Manager",
+          "userId": 10761441,
+          "teamName": "IVI솔루션개발TF",
+          "userName": "기성범"
+        },
+        {
+          "productId": 23,
+          "productName": "ITO 운영",
+          "roleId": 0,
+          "roleName": "Product Manager",
+          "userId": 10987690,
+          "teamName": "SW아키텍처TF",
+          "userName": "채희택"
+        },
+        {
+          "productId": 23,
+          "productName": "ITO 운영",
+          "roleId": 0,
+          "roleName": "Product Manager",
+          "userId": 10441633,
+          "teamName": "SW아키텍처TF",
+          "userName": "채희택"
+        },
+        {
+          "productId": 23,
+          "productName": "ITO 운영",
+          "roleId": 0,
+          "roleName": "Product Manager",
+          "userId": 10633419,
+          "teamName": "ConnectedCar플랫폼TF",
+          "userName": "이정용"
+        }
+      ],
+      "productMemberTotal": 5
     },
     {
       "productId": 24,
       "productName": "AI IoT 플랫폼 개발",
-      "regDate": "2019-08-19T07:32:55.755Z",
-      "updateDate": "2019-11-02T10:41:07.957Z",
-      "tagNames": ["hacking"]
+      "regDate": "2020-03-23T05:29:44.886Z",
+      "updateDate": "2019-11-19T09:38:39.608Z",
+      "productTags": ["24/7", "Investor"],
+      "productMemberDtos": [
+        {
+          "productId": 24,
+          "productName": "AI IoT 플랫폼 개발",
+          "roleId": 3,
+          "roleName": "Agile Coach",
+          "userId": 10464902,
+          "teamName": "5지아이오티플랫폼개발티에프",
+          "userName": "김찬영"
+        },
+        {
+          "productId": 24,
+          "productName": "AI IoT 플랫폼 개발",
+          "roleId": 3,
+          "roleName": "Agile Coach",
+          "userId": 10015405,
+          "teamName": "IT관제운영혁신팀",
+          "userName": "성상지"
+        }
+      ],
+      "productMemberTotal": 2
     },
     {
       "productId": 25,
       "productName": "API 파트",
-      "regDate": "2019-08-07T05:56:56.612Z",
-      "updateDate": "2019-12-04T08:47:53.825Z",
-      "tagNames": []
+      "regDate": "2019-05-28T22:13:27.047Z",
+      "updateDate": "2020-04-15T19:29:40.403Z",
+      "productTags": [],
+      "productMemberDtos": [],
+      "productMemberTotal": 0
     },
     {
       "productId": 26,
       "productName": "AI-B2B",
-      "regDate": "2020-03-08T08:29:29.971Z",
-      "updateDate": "2019-05-31T06:48:08.712Z",
-      "tagNames": [
-        "Intelligent",
-        "forecast",
-        "HDD",
-        "generate",
-        "Configuration"
-      ]
+      "regDate": "2020-04-15T07:02:49.257Z",
+      "updateDate": "2020-01-27T06:54:45.125Z",
+      "productTags": [],
+      "productMemberDtos": [],
+      "productMemberTotal": 0
     },
     {
       "productId": 27,
       "productName": "AI B2B 운영",
-      "regDate": "2019-05-26T10:05:16.500Z",
-      "updateDate": "2020-01-21T11:39:35.221Z",
-      "tagNames": []
+      "regDate": "2019-08-02T13:49:48.905Z",
+      "updateDate": "2020-01-12T18:29:51.033Z",
+      "productTags": ["visionary", "Computer", "invoice", "incubate"],
+      "productMemberDtos": [
+        {
+          "productId": 27,
+          "productName": "AI B2B 운영",
+          "roleId": 3,
+          "roleName": "Agile Coach",
+          "userId": 10773546,
+          "teamName": "AI단말SW개발TF",
+          "userName": "최수용"
+        },
+        {
+          "productId": 27,
+          "productName": "AI B2B 운영",
+          "roleId": 3,
+          "roleName": "Agile Coach",
+          "userId": 10849137,
+          "teamName": "IVI솔루션개발TF",
+          "userName": "남궁준"
+        },
+        {
+          "productId": 27,
+          "productName": "AI B2B 운영",
+          "roleId": 3,
+          "roleName": "Agile Coach",
+          "userId": 10851699,
+          "teamName": "GIS서버개발TF",
+          "userName": "조혜진"
+        },
+        {
+          "productId": 27,
+          "productName": "AI B2B 운영",
+          "roleId": 3,
+          "roleName": "Agile Coach",
+          "userId": 10397057,
+          "teamName": "스마트공간 플랫폼개발TF",
+          "userName": "이균진"
+        }
+      ],
+      "productMemberTotal": 4
     },
     {
       "productId": 28,
       "productName": "AI데이터디스커버리",
-      "regDate": "2019-10-29T00:06:07.057Z",
-      "updateDate": "2020-01-16T14:23:49.788Z",
-      "tagNames": ["Technician", "interface", "SAS", "synthesize"]
+      "regDate": "2019-10-04T02:54:24.120Z",
+      "updateDate": "2019-08-13T13:52:07.499Z",
+      "productTags": ["Automotive"],
+      "productMemberDtos": [
+        {
+          "productId": 28,
+          "productName": "AI데이터디스커버리",
+          "roleId": 1,
+          "roleName": "SW Engineer",
+          "userId": 10005071,
+          "teamName": "SW개발혁신팀",
+          "userName": "고희선"
+        }
+      ],
+      "productMemberTotal": 1
     },
     {
       "productId": 29,
       "productName": "Agile개발지원테스트베드",
-      "regDate": "2019-11-29T01:40:50.527Z",
-      "updateDate": "2019-09-01T04:12:45.428Z",
-      "tagNames": []
+      "regDate": "2020-02-09T21:33:24.951Z",
+      "updateDate": "2019-09-18T02:49:15.777Z",
+      "productTags": ["Advanced", "Grocery"],
+      "productMemberDtos": [
+        {
+          "productId": 29,
+          "productName": "Agile개발지원테스트베드",
+          "roleId": 1,
+          "roleName": "SW Engineer",
+          "userId": 10584401,
+          "teamName": "스마트모빌리티",
+          "userName": "김정근"
+        },
+        {
+          "productId": 29,
+          "productName": "Agile개발지원테스트베드",
+          "roleId": 1,
+          "roleName": "SW Engineer",
+          "userId": 10239825,
+          "teamName": "Connected Car 글로벌사업1팀",
+          "userName": "이우재"
+        }
+      ],
+      "productMemberTotal": 2
     },
     {
       "productId": 30,
       "productName": "AirMap Korea",
-      "regDate": "2019-07-01T16:18:45.673Z",
-      "updateDate": "2019-05-28T18:02:02.232Z",
-      "tagNames": ["HDD", "Awesome", "next-generation", "sky blue", "silver"]
+      "regDate": "2019-12-12T08:57:57.071Z",
+      "updateDate": "2019-09-09T00:35:18.805Z",
+      "productTags": [],
+      "productMemberDtos": [],
+      "productMemberTotal": 0
     },
     {
       "productId": 31,
       "productName": "AirMap Consumer 구조화",
-      "regDate": "2019-09-16T10:55:14.993Z",
-      "updateDate": "2019-12-21T04:59:26.157Z",
-      "tagNames": [
-        "Practical Metal Sausages",
-        "전북",
-        "Bedfordshire",
-        "Bedfordshire"
-      ]
+      "regDate": "2019-06-01T13:29:55.130Z",
+      "updateDate": "2019-07-10T19:24:05.244Z",
+      "productTags": ["Trinidad and Tobago", "세종"],
+      "productMemberDtos": [
+        {
+          "productId": 31,
+          "productName": "AirMap Consumer 구조화",
+          "roleId": 2,
+          "roleName": "Technical Architecture",
+          "userId": 10193470,
+          "teamName": "GIS서버개발TF",
+          "userName": "조혜진"
+        },
+        {
+          "productId": 31,
+          "productName": "AirMap Consumer 구조화",
+          "roleId": 2,
+          "roleName": "Technical Architecture",
+          "userId": 10287579,
+          "teamName": "융합모빌리티 플랫폼개발TF",
+          "userName": "이장원"
+        }
+      ],
+      "productMemberTotal": 2
     },
     {
       "productId": 32,
       "productName": "AirMap Web/App CI/CD 적용 ",
-      "regDate": "2020-04-08T11:47:17.335Z",
-      "updateDate": "2019-08-03T12:19:29.101Z",
-      "tagNames": ["Operations"]
+      "regDate": "2019-12-27T11:32:53.867Z",
+      "updateDate": "2019-12-02T04:40:57.815Z",
+      "productTags": ["EXE", "Designer", "generate", "needs-based", "deposit"],
+      "productMemberDtos": [
+        {
+          "productId": 32,
+          "productName": "AirMap Web/App CI/CD 적용 ",
+          "roleId": 0,
+          "roleName": "Product Manager",
+          "userId": 10406786,
+          "teamName": "5G IoT플랫폼 TF",
+          "userName": "남지연"
+        },
+        {
+          "productId": 32,
+          "productName": "AirMap Web/App CI/CD 적용 ",
+          "roleId": 0,
+          "roleName": "Product Manager",
+          "userId": 10812159,
+          "teamName": "SW아키텍처TF",
+          "userName": "김상열"
+        },
+        {
+          "productId": 32,
+          "productName": "AirMap Web/App CI/CD 적용 ",
+          "roleId": 0,
+          "roleName": "Product Manager",
+          "userId": 10555122,
+          "teamName": "Connected Car 플랫폼 TF",
+          "userName": "김성화"
+        },
+        {
+          "productId": 32,
+          "productName": "AirMap Web/App CI/CD 적용 ",
+          "roleId": 0,
+          "roleName": "Product Manager",
+          "userId": 10172683,
+          "teamName": "AI단말TF",
+          "userName": "나영일"
+        },
+        {
+          "productId": 32,
+          "productName": "AirMap Web/App CI/CD 적용 ",
+          "roleId": 0,
+          "roleName": "Product Manager",
+          "userId": 10511733,
+          "teamName": "사업운영1팀",
+          "userName": "김대희"
+        }
+      ],
+      "productMemberTotal": 5
     },
     {
       "productId": 33,
       "productName": "AirMap 서비스 Log Monitoring",
-      "regDate": "2019-06-15T08:22:39.752Z",
-      "updateDate": "2019-10-09T16:40:06.214Z",
-      "tagNames": ["Tuna", "reinvent", "UIC-Franc", "Direct"]
+      "regDate": "2019-08-11T02:40:33.511Z",
+      "updateDate": "2019-07-07T17:13:11.745Z",
+      "productTags": ["auxiliary", "Car", "Venezuela"],
+      "productMemberDtos": [
+        {
+          "productId": 33,
+          "productName": "AirMap 서비스 Log Monitoring",
+          "roleId": 1,
+          "roleName": "SW Engineer",
+          "userId": 10558012,
+          "teamName": "스마트공간플랫폼개발TF",
+          "userName": "박정진"
+        },
+        {
+          "productId": 33,
+          "productName": "AirMap 서비스 Log Monitoring",
+          "roleId": 1,
+          "roleName": "SW Engineer",
+          "userId": 10698730,
+          "teamName": "GiGAtwin Project",
+          "userName": "정원우"
+        },
+        {
+          "productId": 33,
+          "productName": "AirMap 서비스 Log Monitoring",
+          "roleId": 1,
+          "roleName": "SW Engineer",
+          "userId": 10853138,
+          "teamName": "GIS단말개발TF",
+          "userName": "문권수"
+        }
+      ],
+      "productMemberTotal": 3
     },
     {
       "productId": 34,
       "productName": "CCP-ShuttleBus",
-      "regDate": "2019-09-18T15:38:21.130Z",
-      "updateDate": "2019-07-11T07:14:37.527Z",
-      "tagNames": ["Functionality", "전북", "copy", "Ouguiya"]
+      "regDate": "2019-05-22T19:11:26.105Z",
+      "updateDate": "2020-01-23T15:40:40.170Z",
+      "productTags": [
+        "monetize",
+        "Switchable",
+        "Technician",
+        "Generic",
+        "인천"
+      ],
+      "productMemberDtos": [
+        {
+          "productId": 34,
+          "productName": "CCP-ShuttleBus",
+          "roleId": 1,
+          "roleName": "SW Engineer",
+          "userId": 10122647,
+          "teamName": "AI Iot플랫폼개발",
+          "userName": "박현규"
+        },
+        {
+          "productId": 34,
+          "productName": "CCP-ShuttleBus",
+          "roleId": 1,
+          "roleName": "SW Engineer",
+          "userId": 10217401,
+          "teamName": "Open IoT TF",
+          "userName": "박경원"
+        },
+        {
+          "productId": 34,
+          "productName": "CCP-ShuttleBus",
+          "roleId": 1,
+          "roleName": "SW Engineer",
+          "userId": 10430091,
+          "teamName": "스마트공간플랫폼팀",
+          "userName": "김영일"
+        },
+        {
+          "productId": 34,
+          "productName": "CCP-ShuttleBus",
+          "roleId": 1,
+          "roleName": "SW Engineer",
+          "userId": 10930942,
+          "teamName": "스마트공간 플랫폼개발TF",
+          "userName": "이균진"
+        },
+        {
+          "productId": 34,
+          "productName": "CCP-ShuttleBus",
+          "roleId": 1,
+          "roleName": "SW Engineer",
+          "userId": 10743396,
+          "teamName": "GIS서버개발TF",
+          "userName": "채철우"
+        }
+      ],
+      "productMemberTotal": 5
     },
     {
       "productId": 35,
       "productName": "CCP-TF",
-      "regDate": "2020-04-22T02:07:11.343Z",
-      "updateDate": "2020-01-07T17:02:32.136Z",
-      "tagNames": ["bypass", "Officer", "channels"]
+      "regDate": "2019-05-25T03:39:26.845Z",
+      "updateDate": "2020-05-13T20:16:00.983Z",
+      "productTags": ["Ergonomic", "SSL"],
+      "productMemberDtos": [
+        {
+          "productId": 35,
+          "productName": "CCP-TF",
+          "roleId": 3,
+          "roleName": "Agile Coach",
+          "userId": 10038046,
+          "teamName": "GIT플랫폼개발TF",
+          "userName": "김원률"
+        },
+        {
+          "productId": 35,
+          "productName": "CCP-TF",
+          "roleId": 3,
+          "roleName": "Agile Coach",
+          "userId": 10004098,
+          "teamName": "IT관제운영혁신팀",
+          "userName": "성상지"
+        }
+      ],
+      "productMemberTotal": 2
     },
     {
       "productId": 36,
       "productName": "커넥티드카-O2O플랫폼",
-      "regDate": "2020-04-15T13:26:31.256Z",
-      "updateDate": "2019-08-02T07:50:02.443Z",
-      "tagNames": ["Assistant"]
+      "regDate": "2020-03-16T20:19:52.534Z",
+      "updateDate": "2019-07-23T06:43:05.992Z",
+      "productTags": [],
+      "productMemberDtos": [],
+      "productMemberTotal": 0
     },
     {
       "productId": 37,
       "productName": "FMS(Connected Car)",
-      "regDate": "2019-08-28T14:44:04.779Z",
-      "updateDate": "2020-05-16T16:00:51.046Z",
-      "tagNames": []
+      "regDate": "2019-11-20T14:16:10.581Z",
+      "updateDate": "2020-02-24T20:49:15.776Z",
+      "productTags": ["Generic Concrete Salad", "Customer"],
+      "productMemberDtos": [
+        {
+          "productId": 37,
+          "productName": "FMS(Connected Car)",
+          "roleId": 1,
+          "roleName": "SW Engineer",
+          "userId": 10591536,
+          "teamName": "GIS서버개발TF",
+          "userName": "홍성훈"
+        },
+        {
+          "productId": 37,
+          "productName": "FMS(Connected Car)",
+          "roleId": 1,
+          "roleName": "SW Engineer",
+          "userId": 10896811,
+          "teamName": "ConnectedCar플랫폼TF",
+          "userName": "정규진"
+        }
+      ],
+      "productMemberTotal": 2
     },
     {
       "productId": 38,
       "productName": "프로젝트22",
-      "regDate": "2019-07-08T19:13:20.806Z",
-      "updateDate": "2020-01-26T16:39:04.253Z",
-      "tagNames": ["Assurance", "generating", "Indian Rupee Ngultrum"]
+      "regDate": "2019-06-22T03:58:35.061Z",
+      "updateDate": "2019-09-26T20:30:31.391Z",
+      "productTags": [],
+      "productMemberDtos": [],
+      "productMemberTotal": 0
     },
     {
       "productId": 39,
       "productName": "Geomaster Data & Map",
-      "regDate": "2020-03-13T17:01:30.129Z",
-      "updateDate": "2019-09-30T15:07:01.690Z",
-      "tagNames": []
+      "regDate": "2020-02-29T09:38:50.417Z",
+      "updateDate": "2019-07-29T23:27:11.471Z",
+      "productTags": ["Kids", "markets"],
+      "productMemberDtos": [
+        {
+          "productId": 39,
+          "productName": "Geomaster Data & Map",
+          "roleId": 1,
+          "roleName": "SW Engineer",
+          "userId": 10463968,
+          "teamName": "GIS서버개발TF",
+          "userName": "이민향"
+        },
+        {
+          "productId": 39,
+          "productName": "Geomaster Data & Map",
+          "roleId": 1,
+          "roleName": "SW Engineer",
+          "userId": 10839874,
+          "teamName": "GIS개발기획TF",
+          "userName": "박세원"
+        }
+      ],
+      "productMemberTotal": 2
     },
     {
       "productId": 40,
       "productName": "test",
-      "regDate": "2020-02-17T14:31:59.581Z",
-      "updateDate": "2020-03-13T10:11:49.418Z",
-      "tagNames": ["lime"]
+      "regDate": "2019-12-17T17:24:39.362Z",
+      "updateDate": "2019-10-20T12:12:28.925Z",
+      "productTags": ["payment", "Future", "Rustic Plastic Computer"],
+      "productMemberDtos": [
+        {
+          "productId": 40,
+          "productName": "test",
+          "roleId": 0,
+          "roleName": "Product Manager",
+          "userId": 10517008,
+          "teamName": "IVI솔루션개발TF",
+          "userName": "임경준"
+        },
+        {
+          "productId": 40,
+          "productName": "test",
+          "roleId": 0,
+          "roleName": "Product Manager",
+          "userId": 10334133,
+          "teamName": "AI에너지플랫폼개발TF",
+          "userName": "김석우"
+        },
+        {
+          "productId": 40,
+          "productName": "test",
+          "roleId": 0,
+          "roleName": "Product Manager",
+          "userId": 10228307,
+          "teamName": "5G IoT플랫폼 TF",
+          "userName": "김범준"
+        }
+      ],
+      "productMemberTotal": 3
     },
     {
       "productId": 41,
       "productName": "Geomaster_OnaNavi ",
-      "regDate": "2019-12-16T03:20:45.864Z",
-      "updateDate": "2019-09-12T02:06:10.293Z",
-      "tagNames": ["streamline"]
+      "regDate": "2019-07-11T05:01:02.336Z",
+      "updateDate": "2019-07-05T09:11:37.569Z",
+      "productTags": ["Rubber", "Sausages", "Corporate"],
+      "productMemberDtos": [
+        {
+          "productId": 41,
+          "productName": "Geomaster_OnaNavi ",
+          "roleId": 3,
+          "roleName": "Agile Coach",
+          "userId": 10756152,
+          "teamName": "스마트모빌리티",
+          "userName": "김정근"
+        },
+        {
+          "productId": 41,
+          "productName": "Geomaster_OnaNavi ",
+          "roleId": 3,
+          "roleName": "Agile Coach",
+          "userId": 10461200,
+          "teamName": "AI에너지플랫폼개발TF",
+          "userName": "김석우"
+        },
+        {
+          "productId": 41,
+          "productName": "Geomaster_OnaNavi ",
+          "roleId": 3,
+          "roleName": "Agile Coach",
+          "userId": 10542957,
+          "teamName": "Open IoT TF ",
+          "userName": "김예진"
+        }
+      ],
+      "productMemberTotal": 3
     },
     {
       "productId": 42,
       "productName": "GIS플랫폼",
-      "regDate": "2019-08-16T11:00:00.948Z",
-      "updateDate": "2019-08-21T00:01:56.898Z",
-      "tagNames": ["protocol"]
+      "regDate": "2019-07-23T08:31:53.040Z",
+      "updateDate": "2019-11-01T11:39:02.422Z",
+      "productTags": ["전북", "schemas", "읍", "Borders", "Director"],
+      "productMemberDtos": [
+        {
+          "productId": 42,
+          "productName": "GIS플랫폼",
+          "roleId": 0,
+          "roleName": "Product Manager",
+          "userId": 10255363,
+          "teamName": "IVI솔루션개발TF",
+          "userName": "임경준"
+        },
+        {
+          "productId": 42,
+          "productName": "GIS플랫폼",
+          "roleId": 0,
+          "roleName": "Product Manager",
+          "userId": 10095450,
+          "teamName": "AI단말SW개발TF",
+          "userName": "이태희"
+        },
+        {
+          "productId": 42,
+          "productName": "GIS플랫폼",
+          "roleId": 0,
+          "roleName": "Product Manager",
+          "userId": 10562892,
+          "teamName": "AI단말SW개발TF",
+          "userName": "최수용"
+        },
+        {
+          "productId": 42,
+          "productName": "GIS플랫폼",
+          "roleId": 0,
+          "roleName": "Product Manager",
+          "userId": 10299154,
+          "teamName": "5G영상서비스개발TF",
+          "userName": "신문석"
+        },
+        {
+          "productId": 42,
+          "productName": "GIS플랫폼",
+          "roleId": 0,
+          "roleName": "Product Manager",
+          "userId": 10518215,
+          "teamName": "AI단말SW개발TF",
+          "userName": "김영현"
+        }
+      ],
+      "productMemberTotal": 5
     },
     {
       "productId": 43,
       "productName": "Geomaster Data개발",
-      "regDate": "2020-02-21T19:49:18.268Z",
-      "updateDate": "2019-05-23T12:14:54.198Z",
-      "tagNames": []
+      "regDate": "2020-03-17T07:17:44.129Z",
+      "updateDate": "2020-01-03T08:53:45.697Z",
+      "productTags": ["Uganda", "Outdoors", "Avon"],
+      "productMemberDtos": [
+        {
+          "productId": 43,
+          "productName": "Geomaster Data개발",
+          "roleId": 1,
+          "roleName": "SW Engineer",
+          "userId": 10579811,
+          "teamName": "5G IoT 플랫폼 TF",
+          "userName": "김현주"
+        },
+        {
+          "productId": 43,
+          "productName": "Geomaster Data개발",
+          "roleId": 1,
+          "roleName": "SW Engineer",
+          "userId": 10109518,
+          "teamName": "GIT플랫폼개발TF",
+          "userName": "김원률"
+        },
+        {
+          "productId": 43,
+          "productName": "Geomaster Data개발",
+          "roleId": 1,
+          "roleName": "SW Engineer",
+          "userId": 10479382,
+          "teamName": "5G IoT플랫폼 TF",
+          "userName": "박상재"
+        }
+      ],
+      "productMemberTotal": 3
     },
     {
       "productId": 44,
       "productName": "Geomaster 운영",
-      "regDate": "2020-02-29T00:36:24.695Z",
-      "updateDate": "2019-10-03T18:33:07.066Z",
-      "tagNames": ["Mobility", "Movies", "deploy", "면", "contingency"]
+      "regDate": "2019-06-22T19:44:47.384Z",
+      "updateDate": "2019-11-10T03:49:53.355Z",
+      "productTags": ["Ergonomic", "Ergonomic", "Web", "Operations"],
+      "productMemberDtos": [
+        {
+          "productId": 44,
+          "productName": "Geomaster 운영",
+          "roleId": 0,
+          "roleName": "Product Manager",
+          "userId": 10443554,
+          "teamName": "AI단말SW개발TF",
+          "userName": "이태희"
+        },
+        {
+          "productId": 44,
+          "productName": "Geomaster 운영",
+          "roleId": 0,
+          "roleName": "Product Manager",
+          "userId": 10925778,
+          "teamName": "GIS서버개발-TF",
+          "userName": "안지현"
+        },
+        {
+          "productId": 44,
+          "productName": "Geomaster 운영",
+          "roleId": 0,
+          "roleName": "Product Manager",
+          "userId": 10619408,
+          "teamName": "스마트공간 플랫폼개발TF",
+          "userName": "이균진"
+        },
+        {
+          "productId": 44,
+          "productName": "Geomaster 운영",
+          "roleId": 0,
+          "roleName": "Product Manager",
+          "userId": 10423269,
+          "teamName": "AI단말SW개발TF",
+          "userName": "이태희"
+        }
+      ],
+      "productMemberTotal": 4
     },
     {
       "productId": 45,
       "productName": "KT내비",
-      "regDate": "2020-01-19T14:47:02.691Z",
-      "updateDate": "2020-04-21T22:56:35.532Z",
-      "tagNames": []
+      "regDate": "2020-01-10T20:37:28.364Z",
+      "updateDate": "2020-04-15T12:39:06.283Z",
+      "productTags": ["Paradigm", "hardware", "Rustic"],
+      "productMemberDtos": [
+        {
+          "productId": 45,
+          "productName": "KT내비",
+          "roleId": 2,
+          "roleName": "Technical Architecture",
+          "userId": 10675540,
+          "teamName": "AI플랫폼개발TF",
+          "userName": "김홍범"
+        },
+        {
+          "productId": 45,
+          "productName": "KT내비",
+          "roleId": 2,
+          "roleName": "Technical Architecture",
+          "userId": 10465219,
+          "teamName": "AI플랫폼개발TF",
+          "userName": "박근임"
+        },
+        {
+          "productId": 45,
+          "productName": "KT내비",
+          "roleId": 2,
+          "roleName": "Technical Architecture",
+          "userId": 10056994,
+          "teamName": "SW개발혁신팀",
+          "userName": "고희선"
+        }
+      ],
+      "productMemberTotal": 3
     },
     {
       "productId": 46,
       "productName": "경로 스쿼드",
-      "regDate": "2020-03-14T20:43:16.872Z",
-      "updateDate": "2019-11-27T21:33:42.394Z",
-      "tagNames": ["Vatu", "XSS"]
+      "regDate": "2019-09-29T19:01:49.990Z",
+      "updateDate": "2019-07-07T15:10:06.335Z",
+      "productTags": [
+        "distributed",
+        "Avon",
+        "matrix",
+        "Licensed Rubber Hat",
+        "동"
+      ],
+      "productMemberDtos": [
+        {
+          "productId": 46,
+          "productName": "경로 스쿼드",
+          "roleId": 3,
+          "roleName": "Agile Coach",
+          "userId": 10774119,
+          "teamName": "SW개발혁신PTF",
+          "userName": "정찬호"
+        },
+        {
+          "productId": 46,
+          "productName": "경로 스쿼드",
+          "roleId": 3,
+          "roleName": "Agile Coach",
+          "userId": 10981626,
+          "teamName": "스마트공간 플랫폼개발TF",
+          "userName": "이균진"
+        },
+        {
+          "productId": 46,
+          "productName": "경로 스쿼드",
+          "roleId": 3,
+          "roleName": "Agile Coach",
+          "userId": 10216996,
+          "teamName": "ConnectedCar플랫폼TF",
+          "userName": "이정용"
+        },
+        {
+          "productId": 46,
+          "productName": "경로 스쿼드",
+          "roleId": 3,
+          "roleName": "Agile Coach",
+          "userId": 10372454,
+          "teamName": "5G IoT플랫폼 TF",
+          "userName": "방영우"
+        },
+        {
+          "productId": 46,
+          "productName": "경로 스쿼드",
+          "roleId": 3,
+          "roleName": "Agile Coach",
+          "userId": 10651860,
+          "teamName": "AI Iot플랫폼개발",
+          "userName": "박현규"
+        }
+      ],
+      "productMemberTotal": 5
     },
     {
       "productId": 47,
       "productName": "맵&서비스",
-      "regDate": "2019-11-02T23:10:02.627Z",
-      "updateDate": "2019-06-01T06:00:09.473Z",
-      "tagNames": ["Investment Account", "면", "Gambia", "Front-line"]
+      "regDate": "2020-03-12T10:05:24.274Z",
+      "updateDate": "2019-08-14T23:59:50.544Z",
+      "productTags": ["Czech Republic", "Corporate", "Regional", "target"],
+      "productMemberDtos": [
+        {
+          "productId": 47,
+          "productName": "맵&서비스",
+          "roleId": 0,
+          "roleName": "Product Manager",
+          "userId": 10252666,
+          "teamName": "스마트모빌리티TF",
+          "userName": "강경인"
+        },
+        {
+          "productId": 47,
+          "productName": "맵&서비스",
+          "roleId": 0,
+          "roleName": "Product Manager",
+          "userId": 10594754,
+          "teamName": "GIS단말개발 TF",
+          "userName": "이동식"
+        },
+        {
+          "productId": 47,
+          "productName": "맵&서비스",
+          "roleId": 0,
+          "roleName": "Product Manager",
+          "userId": 10002855,
+          "teamName": "융합모빌리티 플랫폼개발TF",
+          "userName": "김낙현"
+        },
+        {
+          "productId": 47,
+          "productName": "맵&서비스",
+          "roleId": 0,
+          "roleName": "Product Manager",
+          "userId": 10831607,
+          "teamName": "Connected Car 사업운영1팀",
+          "userName": "박현자"
+        }
+      ],
+      "productMemberTotal": 4
     },
     {
       "productId": 48,
       "productName": "Geomaster_VOC",
-      "regDate": "2020-05-08T15:30:13.923Z",
-      "updateDate": "2019-11-15T05:43:44.756Z",
-      "tagNames": []
+      "regDate": "2019-09-16T09:41:50.068Z",
+      "updateDate": "2020-03-05T06:41:49.318Z",
+      "productTags": ["Legacy", "Optimized", "withdrawal"],
+      "productMemberDtos": [
+        {
+          "productId": 48,
+          "productName": "Geomaster_VOC",
+          "roleId": 3,
+          "roleName": "Agile Coach",
+          "userId": 10155111,
+          "teamName": "Open IoT TF ",
+          "userName": "김예진"
+        },
+        {
+          "productId": 48,
+          "productName": "Geomaster_VOC",
+          "roleId": 3,
+          "roleName": "Agile Coach",
+          "userId": 10055766,
+          "teamName": "GIS단말개발TF",
+          "userName": "문권수"
+        },
+        {
+          "productId": 48,
+          "productName": "Geomaster_VOC",
+          "roleId": 3,
+          "roleName": "Agile Coach",
+          "userId": 10909826,
+          "teamName": "스마트공간플랫폼개발TF",
+          "userName": "박정진"
+        }
+      ],
+      "productMemberTotal": 3
     },
     {
       "productId": 49,
       "productName": "Network",
-      "regDate": "2019-10-01T22:10:52.477Z",
-      "updateDate": "2020-02-08T18:41:36.598Z",
-      "tagNames": ["Rubber", "cross-platform"]
+      "regDate": "2020-04-17T15:45:06.830Z",
+      "updateDate": "2020-05-01T11:19:43.909Z",
+      "productTags": ["Home Loan Account"],
+      "productMemberDtos": [
+        {
+          "productId": 49,
+          "productName": "Network",
+          "roleId": 1,
+          "roleName": "SW Engineer",
+          "userId": 10524629,
+          "teamName": "GIS서버개발TF",
+          "userName": "민병욱"
+        }
+      ],
+      "productMemberTotal": 1
     },
     {
       "productId": 50,
       "productName": "POI",
-      "regDate": "2020-01-25T12:44:46.699Z",
-      "updateDate": "2020-01-17T23:36:49.078Z",
-      "tagNames": ["real-time", "multi-state", "whiteboard"]
+      "regDate": "2019-10-18T08:31:57.871Z",
+      "updateDate": "2019-09-20T20:07:00.855Z",
+      "productTags": ["Identity", "copy", "서울"],
+      "productMemberDtos": [
+        {
+          "productId": 50,
+          "productName": "POI",
+          "roleId": 1,
+          "roleName": "SW Engineer",
+          "userId": 10155658,
+          "teamName": "5GIoT플랫폼TF",
+          "userName": "이상현"
+        },
+        {
+          "productId": 50,
+          "productName": "POI",
+          "roleId": 1,
+          "roleName": "SW Engineer",
+          "userId": 10494303,
+          "teamName": "GIS플랫폼개발TF",
+          "userName": "조홍범"
+        },
+        {
+          "productId": 50,
+          "productName": "POI",
+          "roleId": 1,
+          "roleName": "SW Engineer",
+          "userId": 10628758,
+          "teamName": "5GIoT플랫폼TF",
+          "userName": "이상현"
+        }
+      ],
+      "productMemberTotal": 3
     },
     {
       "productId": 51,
       "productName": "GiGAGenie레시피",
-      "regDate": "2019-06-19T01:07:25.777Z",
-      "updateDate": "2019-08-18T12:22:44.620Z",
-      "tagNames": ["incentivize"]
+      "regDate": "2019-07-13T18:50:53.586Z",
+      "updateDate": "2019-07-28T04:40:27.658Z",
+      "productTags": [],
+      "productMemberDtos": [],
+      "productMemberTotal": 0
     },
     {
       "productId": 52,
       "productName": "GiGAGenie리조트",
-      "regDate": "2020-01-13T21:50:03.045Z",
-      "updateDate": "2020-01-20T05:10:33.348Z",
-      "tagNames": ["Future", "충남", "Timor-Leste"]
+      "regDate": "2019-11-28T23:08:38.985Z",
+      "updateDate": "2019-08-20T08:15:14.685Z",
+      "productTags": ["card", "Fantastic"],
+      "productMemberDtos": [
+        {
+          "productId": 52,
+          "productName": "GiGAGenie리조트",
+          "roleId": 1,
+          "roleName": "SW Engineer",
+          "userId": 10975007,
+          "teamName": "GIS플랫폼개발TF",
+          "userName": "김민정"
+        },
+        {
+          "productId": 52,
+          "productName": "GiGAGenie리조트",
+          "roleId": 1,
+          "roleName": "SW Engineer",
+          "userId": 10846660,
+          "teamName": "IVI솔루션개발TF",
+          "userName": "남궁준"
+        }
+      ],
+      "productMemberTotal": 2
     },
     {
       "productId": 53,
       "productName": "GiGAGenie메인컨트롤러앱",
-      "regDate": "2019-05-29T12:45:17.975Z",
-      "updateDate": "2020-01-10T12:17:58.578Z",
-      "tagNames": []
+      "regDate": "2019-08-15T07:39:12.343Z",
+      "updateDate": "2019-09-22T22:52:24.651Z",
+      "productTags": [
+        "Credit Card Account",
+        "e-commerce",
+        "Borders",
+        "scalable"
+      ],
+      "productMemberDtos": [
+        {
+          "productId": 53,
+          "productName": "GiGAGenie메인컨트롤러앱",
+          "roleId": 2,
+          "roleName": "Technical Architecture",
+          "userId": 10840885,
+          "teamName": "GIT플랫폼개발TF",
+          "userName": "김원률"
+        },
+        {
+          "productId": 53,
+          "productName": "GiGAGenie메인컨트롤러앱",
+          "roleId": 2,
+          "roleName": "Technical Architecture",
+          "userId": 10408643,
+          "teamName": "GIS서버개발-TF",
+          "userName": "안지현"
+        },
+        {
+          "productId": 53,
+          "productName": "GiGAGenie메인컨트롤러앱",
+          "roleId": 2,
+          "roleName": "Technical Architecture",
+          "userId": 10021931,
+          "teamName": "Kim",
+          "userName": "Hyungkyung"
+        },
+        {
+          "productId": 53,
+          "productName": "GiGAGenie메인컨트롤러앱",
+          "roleId": 2,
+          "roleName": "Technical Architecture",
+          "userId": 10265519,
+          "teamName": "SW아키텍처TF",
+          "userName": "김상열"
+        }
+      ],
+      "productMemberTotal": 4
     },
     {
       "productId": 54,
       "productName": "GiGAGenie비서",
-      "regDate": "2020-05-13T02:59:27.733Z",
-      "updateDate": "2020-03-31T13:33:19.818Z",
-      "tagNames": ["e-enable", "Cotton", "대전", "Vision-oriented"]
+      "regDate": "2020-01-23T07:00:42.373Z",
+      "updateDate": "2020-01-22T01:50:06.196Z",
+      "productTags": [],
+      "productMemberDtos": [],
+      "productMemberTotal": 0
     },
     {
       "productId": 55,
       "productName": "GiGAGenie서비스플랫폼",
-      "regDate": "2019-10-30T00:59:16.852Z",
-      "updateDate": "2019-06-30T00:49:27.072Z",
-      "tagNames": []
+      "regDate": "2019-08-13T19:46:19.548Z",
+      "updateDate": "2019-09-22T13:53:30.468Z",
+      "productTags": [
+        "killer",
+        "non-volatile",
+        "Codes specifically reserved for testing purposes",
+        "Cotton",
+        "Optional"
+      ],
+      "productMemberDtos": [
+        {
+          "productId": 55,
+          "productName": "GiGAGenie서비스플랫폼",
+          "roleId": 2,
+          "roleName": "Technical Architecture",
+          "userId": 10256898,
+          "teamName": "AI플랫폼개발TF",
+          "userName": "박근임"
+        },
+        {
+          "productId": 55,
+          "productName": "GiGAGenie서비스플랫폼",
+          "roleId": 2,
+          "roleName": "Technical Architecture",
+          "userId": 10887541,
+          "teamName": "GIS개발기획TF",
+          "userName": "박세원"
+        },
+        {
+          "productId": 55,
+          "productName": "GiGAGenie서비스플랫폼",
+          "roleId": 2,
+          "roleName": "Technical Architecture",
+          "userId": 10441980,
+          "teamName": "AI서비스개발TF",
+          "userName": "이정호"
+        },
+        {
+          "productId": 55,
+          "productName": "GiGAGenie서비스플랫폼",
+          "roleId": 2,
+          "roleName": "Technical Architecture",
+          "userId": 10975551,
+          "teamName": "IT전략기획팀",
+          "userName": "김윌리엄"
+        },
+        {
+          "productId": 55,
+          "productName": "GiGAGenie서비스플랫폼",
+          "roleId": 2,
+          "roleName": "Technical Architecture",
+          "userId": 10034670,
+          "teamName": "Connected Car 플랫폼 TF",
+          "userName": "김재용"
+        }
+      ],
+      "productMemberTotal": 5
     },
     {
       "productId": 56,
       "productName": "GiGAGenie앱",
-      "regDate": "2019-08-18T09:57:12.870Z",
-      "updateDate": "2020-04-11T21:05:01.917Z",
-      "tagNames": ["읍", "focus group", "turquoise", "panel"]
+      "regDate": "2020-03-23T07:51:02.284Z",
+      "updateDate": "2020-02-05T13:41:24.898Z",
+      "productTags": ["generate", "generate", "Dynamic", "capacity"],
+      "productMemberDtos": [
+        {
+          "productId": 56,
+          "productName": "GiGAGenie앱",
+          "roleId": 3,
+          "roleName": "Agile Coach",
+          "userId": 10943835,
+          "teamName": "스마트공간 플랫폼개발TF",
+          "userName": "이균진"
+        },
+        {
+          "productId": 56,
+          "productName": "GiGAGenie앱",
+          "roleId": 3,
+          "roleName": "Agile Coach",
+          "userId": 10510223,
+          "teamName": "융합모빌리티 플랫폼개발TF",
+          "userName": "김낙현"
+        },
+        {
+          "productId": 56,
+          "productName": "GiGAGenie앱",
+          "roleId": 3,
+          "roleName": "Agile Coach",
+          "userId": 10130604,
+          "teamName": "SW개발단",
+          "userName": "옥경화"
+        },
+        {
+          "productId": 56,
+          "productName": "GiGAGenie앱",
+          "roleId": 3,
+          "roleName": "Agile Coach",
+          "userId": 10042139,
+          "teamName": "스마트공간플랫폼팀",
+          "userName": "김영일"
+        }
+      ],
+      "productMemberTotal": 4
     },
     {
       "productId": 57,
       "productName": "GiGAGenie런처앱",
-      "regDate": "2019-10-26T12:29:13.964Z",
-      "updateDate": "2019-08-08T23:04:54.404Z",
-      "tagNames": []
+      "regDate": "2019-09-11T08:23:29.365Z",
+      "updateDate": "2019-06-04T15:05:17.818Z",
+      "productTags": ["Architect"],
+      "productMemberDtos": [
+        {
+          "productId": 57,
+          "productName": "GiGAGenie런처앱",
+          "roleId": 0,
+          "roleName": "Product Manager",
+          "userId": 10135770,
+          "teamName": "AI Iot플랫폼개발",
+          "userName": "박현규"
+        }
+      ],
+      "productMemberTotal": 1
     },
     {
       "productId": 58,
       "productName": "GiGAGenie웹앱",
-      "regDate": "2020-02-29T11:35:45.950Z",
-      "updateDate": "2019-05-26T03:19:00.333Z",
-      "tagNames": ["Organized", "Nakfa"]
+      "regDate": "2019-07-20T14:11:25.902Z",
+      "updateDate": "2020-02-03T04:54:46.910Z",
+      "productTags": ["systemic", "Keyboard"],
+      "productMemberDtos": [
+        {
+          "productId": 58,
+          "productName": "GiGAGenie웹앱",
+          "roleId": 3,
+          "roleName": "Agile Coach",
+          "userId": 10788381,
+          "teamName": "Connected car 글로벌사업2팀",
+          "userName": "한정주"
+        },
+        {
+          "productId": 58,
+          "productName": "GiGAGenie웹앱",
+          "roleId": 3,
+          "roleName": "Agile Coach",
+          "userId": 10883941,
+          "teamName": "융합모빌리티 단말개발TF",
+          "userName": "서유리"
+        }
+      ],
+      "productMemberTotal": 2
     },
     {
       "productId": 59,
       "productName": "GiGAGenie음성광고플랫폼",
-      "regDate": "2020-05-07T01:20:39.701Z",
-      "updateDate": "2019-09-14T21:38:31.064Z",
-      "tagNames": ["Soft", "FTP", "제주"]
+      "regDate": "2019-07-13T09:07:44.750Z",
+      "updateDate": "2019-09-29T04:43:00.511Z",
+      "productTags": ["Analyst", "Branding", "면", "Computers", "Developer"],
+      "productMemberDtos": [
+        {
+          "productId": 59,
+          "productName": "GiGAGenie음성광고플랫폼",
+          "roleId": 2,
+          "roleName": "Technical Architecture",
+          "userId": 10376837,
+          "teamName": "5지아이오티플랫폼개발티에프",
+          "userName": "김찬영"
+        },
+        {
+          "productId": 59,
+          "productName": "GiGAGenie음성광고플랫폼",
+          "roleId": 2,
+          "roleName": "Technical Architecture",
+          "userId": 10907147,
+          "teamName": "SW개발프로젝트TF",
+          "userName": "김기정"
+        },
+        {
+          "productId": 59,
+          "productName": "GiGAGenie음성광고플랫폼",
+          "roleId": 2,
+          "roleName": "Technical Architecture",
+          "userId": 10790851,
+          "teamName": "GIS플랫폼개발TF",
+          "userName": "한근석"
+        },
+        {
+          "productId": 59,
+          "productName": "GiGAGenie음성광고플랫폼",
+          "roleId": 2,
+          "roleName": "Technical Architecture",
+          "userId": 10337038,
+          "teamName": "Connected car 글로벌사업2팀",
+          "userName": "한정주"
+        },
+        {
+          "productId": 59,
+          "productName": "GiGAGenie음성광고플랫폼",
+          "roleId": 2,
+          "roleName": "Technical Architecture",
+          "userId": 10849471,
+          "teamName": "AI개발PTF",
+          "userName": "박기철"
+        }
+      ],
+      "productMemberTotal": 5
     },
     {
       "productId": 60,
       "productName": "GiGAGenie컨테이너앱",
-      "regDate": "2019-07-25T20:38:10.719Z",
-      "updateDate": "2020-04-14T21:54:42.550Z",
-      "tagNames": [
-        "Borders",
-        "magenta",
-        "Indian Rupee Ngultrum",
-        "Personal Loan Account"
-      ]
+      "regDate": "2019-08-02T00:03:26.627Z",
+      "updateDate": "2019-12-06T17:17:25.146Z",
+      "productTags": ["Credit Card Account", "withdrawal"],
+      "productMemberDtos": [
+        {
+          "productId": 60,
+          "productName": "GiGAGenie컨테이너앱",
+          "roleId": 3,
+          "roleName": "Agile Coach",
+          "userId": 10312045,
+          "teamName": "5GIoT플랫폼TF",
+          "userName": "이상현"
+        },
+        {
+          "productId": 60,
+          "productName": "GiGAGenie컨테이너앱",
+          "roleId": 3,
+          "roleName": "Agile Coach",
+          "userId": 10900562,
+          "teamName": "SW아키텍처TF",
+          "userName": "정용섭"
+        }
+      ],
+      "productMemberTotal": 2
     },
     {
       "productId": 61,
       "productName": "GiGAGenie호텔",
-      "regDate": "2020-04-23T20:30:38.877Z",
-      "updateDate": "2019-10-30T19:40:57.866Z",
-      "tagNames": ["Nuevo Sol", "Home"]
+      "regDate": "2019-09-14T03:03:12.986Z",
+      "updateDate": "2019-08-17T09:39:41.485Z",
+      "productTags": ["Dobra", "Associate", "Estonia"],
+      "productMemberDtos": [
+        {
+          "productId": 61,
+          "productName": "GiGAGenie호텔",
+          "roleId": 0,
+          "roleName": "Product Manager",
+          "userId": 10160634,
+          "teamName": "사업운영1팀",
+          "userName": "김대희"
+        },
+        {
+          "productId": 61,
+          "productName": "GiGAGenie호텔",
+          "roleId": 0,
+          "roleName": "Product Manager",
+          "userId": 10810004,
+          "teamName": "GIS플랫폼개발TF",
+          "userName": "한근석"
+        },
+        {
+          "productId": 61,
+          "productName": "GiGAGenie호텔",
+          "roleId": 0,
+          "roleName": "Product Manager",
+          "userId": 10653386,
+          "teamName": "5G Industry 플랫폼개발TF",
+          "userName": "안지운"
+        }
+      ],
+      "productMemberTotal": 3
     },
     {
       "productId": 62,
       "productName": "GiGAHound",
-      "regDate": "2019-11-27T00:03:56.488Z",
-      "updateDate": "2019-12-17T10:18:57.183Z",
-      "tagNames": ["deposit", "expedite", "New Zealand Dollar", "Avon"]
+      "regDate": "2019-06-16T00:19:09.093Z",
+      "updateDate": "2020-03-25T09:23:51.518Z",
+      "productTags": ["Polarised"],
+      "productMemberDtos": [
+        {
+          "productId": 62,
+          "productName": "GiGAHound",
+          "roleId": 2,
+          "roleName": "Technical Architecture",
+          "userId": 10185285,
+          "teamName": "융합모빌리티 플랫폼개발TF",
+          "userName": "김낙현"
+        }
+      ],
+      "productMemberTotal": 1
     },
     {
       "productId": 63,
       "productName": "GiGAIoT스마트축산관제",
-      "regDate": "2019-10-22T20:01:18.525Z",
-      "updateDate": "2019-11-25T12:50:00.929Z",
-      "tagNames": ["robust"]
+      "regDate": "2019-10-06T12:12:11.179Z",
+      "updateDate": "2019-07-14T02:17:36.211Z",
+      "productTags": [],
+      "productMemberDtos": [],
+      "productMemberTotal": 0
     },
     {
       "productId": 64,
       "productName": "GiGA_IoT_Alliance_포털",
-      "regDate": "2019-09-21T02:20:43.034Z",
-      "updateDate": "2019-09-19T18:32:01.300Z",
-      "tagNames": ["Grocery", "sensor"]
+      "regDate": "2019-08-20T21:23:12.038Z",
+      "updateDate": "2019-12-11T09:36:46.534Z",
+      "productTags": [
+        "incentivize",
+        "transition",
+        "Awesome Frozen Mouse",
+        "gold"
+      ],
+      "productMemberDtos": [
+        {
+          "productId": 64,
+          "productName": "GiGA_IoT_Alliance_포털",
+          "roleId": 1,
+          "roleName": "SW Engineer",
+          "userId": 10639904,
+          "teamName": "Open IoT TF",
+          "userName": "박경원"
+        },
+        {
+          "productId": 64,
+          "productName": "GiGA_IoT_Alliance_포털",
+          "roleId": 1,
+          "roleName": "SW Engineer",
+          "userId": 10117291,
+          "teamName": "스마트모빌리티",
+          "userName": "김정근"
+        },
+        {
+          "productId": 64,
+          "productName": "GiGA_IoT_Alliance_포털",
+          "roleId": 1,
+          "roleName": "SW Engineer",
+          "userId": 10597654,
+          "teamName": "융합모빌리티 플랫폼개발TF",
+          "userName": "김낙현"
+        },
+        {
+          "productId": 64,
+          "productName": "GiGA_IoT_Alliance_포털",
+          "roleId": 1,
+          "roleName": "SW Engineer",
+          "userId": 10211630,
+          "teamName": "IVI솔루션개발TF",
+          "userName": "이동식"
+        }
+      ],
+      "productMemberTotal": 4
     },
     {
       "productId": 65,
       "productName": "Gitlab_Intg_test",
-      "regDate": "2019-07-02T00:55:04.866Z",
-      "updateDate": "2019-09-26T12:15:42.502Z",
-      "tagNames": ["moderator", "Intelligent", "sticky", "mint green"]
+      "regDate": "2020-01-16T16:45:25.294Z",
+      "updateDate": "2019-05-24T16:17:34.375Z",
+      "productTags": [
+        "streamline",
+        "Electronics",
+        "relationships",
+        "models",
+        "HTTP"
+      ],
+      "productMemberDtos": [
+        {
+          "productId": 65,
+          "productName": "Gitlab_Intg_test",
+          "roleId": 3,
+          "roleName": "Agile Coach",
+          "userId": 10089249,
+          "teamName": "GIS개발기획TF",
+          "userName": "박세원"
+        },
+        {
+          "productId": 65,
+          "productName": "Gitlab_Intg_test",
+          "roleId": 3,
+          "roleName": "Agile Coach",
+          "userId": 10239603,
+          "teamName": "GIS서버개발TF",
+          "userName": "김태호 "
+        },
+        {
+          "productId": 65,
+          "productName": "Gitlab_Intg_test",
+          "roleId": 3,
+          "roleName": "Agile Coach",
+          "userId": 10552388,
+          "teamName": "AI단말SW개발TF",
+          "userName": "이태희"
+        },
+        {
+          "productId": 65,
+          "productName": "Gitlab_Intg_test",
+          "roleId": 3,
+          "roleName": "Agile Coach",
+          "userId": 10527077,
+          "teamName": "스마트공간플랫폼팀",
+          "userName": "김영일"
+        },
+        {
+          "productId": 65,
+          "productName": "Gitlab_Intg_test",
+          "roleId": 3,
+          "roleName": "Agile Coach",
+          "userId": 10270637,
+          "teamName": "사업운영1팀",
+          "userName": "김대희"
+        }
+      ],
+      "productMemberTotal": 5
     },
     {
       "productId": 66,
       "productName": "IMS",
-      "regDate": "2019-06-18T05:36:00.423Z",
-      "updateDate": "2019-12-11T10:02:22.720Z",
-      "tagNames": ["Associate"]
+      "regDate": "2019-09-26T02:26:22.103Z",
+      "updateDate": "2019-09-29T13:27:55.793Z",
+      "productTags": [
+        "Developer",
+        "El Salvador Colon US Dollar",
+        "payment",
+        "turquoise",
+        "Creative"
+      ],
+      "productMemberDtos": [
+        {
+          "productId": 66,
+          "productName": "IMS",
+          "roleId": 1,
+          "roleName": "SW Engineer",
+          "userId": 10952882,
+          "teamName": "Connected car 글로벌사업2팀",
+          "userName": "한정주"
+        },
+        {
+          "productId": 66,
+          "productName": "IMS",
+          "roleId": 1,
+          "roleName": "SW Engineer",
+          "userId": 10469179,
+          "teamName": "GIS서버개발TF",
+          "userName": "김태호 "
+        },
+        {
+          "productId": 66,
+          "productName": "IMS",
+          "roleId": 1,
+          "roleName": "SW Engineer",
+          "userId": 10751666,
+          "teamName": "IT관제운영혁신팀",
+          "userName": "성상지"
+        },
+        {
+          "productId": 66,
+          "productName": "IMS",
+          "roleId": 1,
+          "roleName": "SW Engineer",
+          "userId": 10573622,
+          "teamName": "SW개발단",
+          "userName": "옥경화"
+        },
+        {
+          "productId": 66,
+          "productName": "IMS",
+          "roleId": 1,
+          "roleName": "SW Engineer",
+          "userId": 10298008,
+          "teamName": "GIS서버개발TF",
+          "userName": "장원철"
+        }
+      ],
+      "productMemberTotal": 5
     },
     {
       "productId": 67,
       "productName": "ITMS_Orche 개발사항 점검",
-      "regDate": "2019-11-25T17:33:35.505Z",
-      "updateDate": "2020-04-23T12:13:05.146Z",
-      "tagNames": ["moratorium", "Unbranded Rubber Pizza", "Small"]
+      "regDate": "2020-03-02T00:20:10.832Z",
+      "updateDate": "2020-01-15T22:34:06.090Z",
+      "productTags": ["attitude", "zero tolerance"],
+      "productMemberDtos": [
+        {
+          "productId": 67,
+          "productName": "ITMS_Orche 개발사항 점검",
+          "roleId": 2,
+          "roleName": "Technical Architecture",
+          "userId": 10545751,
+          "teamName": "GIS서버개발TF",
+          "userName": "장원철"
+        },
+        {
+          "productId": 67,
+          "productName": "ITMS_Orche 개발사항 점검",
+          "roleId": 2,
+          "roleName": "Technical Architecture",
+          "userId": 10450415,
+          "teamName": "GIS서버개발TF",
+          "userName": "민병욱"
+        }
+      ],
+      "productMemberTotal": 2
     },
     {
       "productId": 68,
       "productName": "IT부문 Scrum Board",
-      "regDate": "2019-07-31T19:04:57.488Z",
-      "updateDate": "2020-03-24T11:09:51.626Z",
-      "tagNames": ["enhance"]
+      "regDate": "2019-06-29T16:05:07.233Z",
+      "updateDate": "2020-03-10T14:42:52.172Z",
+      "productTags": ["blue", "FTP", "fuchsia", "client-driven"],
+      "productMemberDtos": [
+        {
+          "productId": 68,
+          "productName": "IT부문 Scrum Board",
+          "roleId": 1,
+          "roleName": "SW Engineer",
+          "userId": 10506385,
+          "teamName": "Open IoT TF",
+          "userName": "박경원"
+        },
+        {
+          "productId": 68,
+          "productName": "IT부문 Scrum Board",
+          "roleId": 1,
+          "roleName": "SW Engineer",
+          "userId": 10207835,
+          "teamName": "스마트공간 플랫폼개발TF",
+          "userName": "이균진"
+        },
+        {
+          "productId": 68,
+          "productName": "IT부문 Scrum Board",
+          "roleId": 1,
+          "roleName": "SW Engineer",
+          "userId": 10804643,
+          "teamName": "5G IoT플랫폼 TF",
+          "userName": "박상재"
+        },
+        {
+          "productId": 68,
+          "productName": "IT부문 Scrum Board",
+          "roleId": 1,
+          "roleName": "SW Engineer",
+          "userId": 10328307,
+          "teamName": "5G Industry 플랫폼개발TF",
+          "userName": "김진수"
+        }
+      ],
+      "productMemberTotal": 4
     },
     {
       "productId": 69,
       "productName": "IVI서비스개발",
-      "regDate": "2020-05-13T14:58:01.584Z",
-      "updateDate": "2019-12-24T01:10:30.749Z",
-      "tagNames": [
-        "transmit",
-        "mission-critical",
-        "Avon",
-        "Automotive",
-        "Chief"
-      ]
+      "regDate": "2019-10-20T22:03:56.471Z",
+      "updateDate": "2019-07-03T15:17:39.704Z",
+      "productTags": [],
+      "productMemberDtos": [],
+      "productMemberTotal": 0
     },
     {
       "productId": 70,
       "productName": "IVI플랫폼",
-      "regDate": "2019-07-19T01:31:30.940Z",
-      "updateDate": "2020-02-10T14:51:48.132Z",
-      "tagNames": ["Hat", "Toys", "deliver"]
+      "regDate": "2020-01-15T22:05:06.018Z",
+      "updateDate": "2019-11-25T07:27:07.738Z",
+      "productTags": ["Cape Verde Escudo", "Internal", "benchmark", "Platinum"],
+      "productMemberDtos": [
+        {
+          "productId": 70,
+          "productName": "IVI플랫폼",
+          "roleId": 1,
+          "roleName": "SW Engineer",
+          "userId": 10145831,
+          "teamName": "SW아키텍처TF",
+          "userName": "정용섭"
+        },
+        {
+          "productId": 70,
+          "productName": "IVI플랫폼",
+          "roleId": 1,
+          "roleName": "SW Engineer",
+          "userId": 10045558,
+          "teamName": "글로벌OEM사업1팀",
+          "userName": "이지선"
+        },
+        {
+          "productId": 70,
+          "productName": "IVI플랫폼",
+          "roleId": 1,
+          "roleName": "SW Engineer",
+          "userId": 10029574,
+          "teamName": "ConnectedCar플랫폼TF",
+          "userName": "정규진"
+        },
+        {
+          "productId": 70,
+          "productName": "IVI플랫폼",
+          "roleId": 1,
+          "roleName": "SW Engineer",
+          "userId": 10355653,
+          "teamName": "IVI솔루션개발TF",
+          "userName": "류형근"
+        }
+      ],
+      "productMemberTotal": 4
     },
     {
       "productId": 71,
       "productName": "IoTMakers Analytics",
-      "regDate": "2019-10-29T09:51:40.001Z",
-      "updateDate": "2020-01-10T01:48:20.360Z",
-      "tagNames": ["enhance", "Sleek Wooden Table"]
+      "regDate": "2020-04-02T15:32:52.334Z",
+      "updateDate": "2019-09-14T22:13:54.890Z",
+      "productTags": ["hacking", "읍", "읍"],
+      "productMemberDtos": [
+        {
+          "productId": 71,
+          "productName": "IoTMakers Analytics",
+          "roleId": 3,
+          "roleName": "Agile Coach",
+          "userId": 10710230,
+          "teamName": "GIS서버개발TF",
+          "userName": "김태호 "
+        },
+        {
+          "productId": 71,
+          "productName": "IoTMakers Analytics",
+          "roleId": 3,
+          "roleName": "Agile Coach",
+          "userId": 10236160,
+          "teamName": "GIS플랫폼개발TF",
+          "userName": "김민정"
+        },
+        {
+          "productId": 71,
+          "productName": "IoTMakers Analytics",
+          "roleId": 3,
+          "roleName": "Agile Coach",
+          "userId": 10185289,
+          "teamName": "AI플랫폼개발TF",
+          "userName": "김홍범"
+        }
+      ],
+      "productMemberTotal": 3
     },
     {
       "productId": 72,
       "productName": "IoTMakers EC",
-      "regDate": "2020-02-03T10:44:29.868Z",
-      "updateDate": "2019-12-21T04:26:56.251Z",
-      "tagNames": ["scalable", "Trinidad and Tobago Dollar", "niches"]
+      "regDate": "2019-08-07T01:42:26.372Z",
+      "updateDate": "2019-12-31T20:33:23.909Z",
+      "productTags": ["Technician", "installation", "payment", "primary"],
+      "productMemberDtos": [
+        {
+          "productId": 72,
+          "productName": "IoTMakers EC",
+          "roleId": 1,
+          "roleName": "SW Engineer",
+          "userId": 10281217,
+          "teamName": "융합모빌리티개발P-TF",
+          "userName": "이호재"
+        },
+        {
+          "productId": 72,
+          "productName": "IoTMakers EC",
+          "roleId": 1,
+          "roleName": "SW Engineer",
+          "userId": 10855695,
+          "teamName": "스마트공간플랫폼개발TF",
+          "userName": "박정진"
+        },
+        {
+          "productId": 72,
+          "productName": "IoTMakers EC",
+          "roleId": 1,
+          "roleName": "SW Engineer",
+          "userId": 10538762,
+          "teamName": "GIS서버개발TF",
+          "userName": "송민정"
+        },
+        {
+          "productId": 72,
+          "productName": "IoTMakers EC",
+          "roleId": 1,
+          "roleName": "SW Engineer",
+          "userId": 10478537,
+          "teamName": "GIS서버개발TF",
+          "userName": "장원철"
+        }
+      ],
+      "productMemberTotal": 4
     },
     {
       "productId": 73,
       "productName": "IoTMakers 서비스 장애현황 및 대응방안 공유",
-      "regDate": "2019-11-09T18:47:54.083Z",
-      "updateDate": "2020-04-03T16:46:08.345Z",
-      "tagNames": ["Borders"]
+      "regDate": "2020-02-07T15:24:32.706Z",
+      "updateDate": "2020-02-21T03:14:47.734Z",
+      "productTags": ["Legacy", "Solomon Islands Dollar"],
+      "productMemberDtos": [
+        {
+          "productId": 73,
+          "productName": "IoTMakers 서비스 장애현황 및 대응방안 공유",
+          "roleId": 2,
+          "roleName": "Technical Architecture",
+          "userId": 10316042,
+          "teamName": "SW아키텍처TF",
+          "userName": "정용섭"
+        },
+        {
+          "productId": 73,
+          "productName": "IoTMakers 서비스 장애현황 및 대응방안 공유",
+          "roleId": 2,
+          "roleName": "Technical Architecture",
+          "userId": 10861197,
+          "teamName": "융합모빌리티개발P-TF",
+          "userName": "이호재"
+        }
+      ],
+      "productMemberTotal": 2
     },
     {
       "productId": 74,
       "productName": "IoTMakers 통합 운영",
-      "regDate": "2019-11-23T02:56:13.703Z",
-      "updateDate": "2020-01-12T21:25:43.598Z",
-      "tagNames": ["framework", "fault-tolerant", "web-readiness", "XSS"]
+      "regDate": "2019-07-07T17:33:53.293Z",
+      "updateDate": "2019-08-19T04:46:30.835Z",
+      "productTags": ["Small Metal Sausages"],
+      "productMemberDtos": [
+        {
+          "productId": 74,
+          "productName": "IoTMakers 통합 운영",
+          "roleId": 1,
+          "roleName": "SW Engineer",
+          "userId": 10291153,
+          "teamName": "5G IoT 플랫폼 TF",
+          "userName": "김현주"
+        }
+      ],
+      "productMemberTotal": 1
     },
     {
       "productId": 75,
       "productName": "B2B_IoTMakers ",
-      "regDate": "2019-07-31T18:55:55.806Z",
-      "updateDate": "2019-12-06T04:03:55.646Z",
-      "tagNames": [
-        "navigate",
-        "Sports",
-        "전남",
-        "Handcrafted Concrete Table",
-        "Cambridgeshire"
-      ]
+      "regDate": "2020-01-03T00:44:07.436Z",
+      "updateDate": "2019-07-25T14:42:37.795Z",
+      "productTags": ["zero defect", "Consultant", "recontextualize", "Web"],
+      "productMemberDtos": [
+        {
+          "productId": 75,
+          "productName": "B2B_IoTMakers ",
+          "roleId": 2,
+          "roleName": "Technical Architecture",
+          "userId": 10319343,
+          "teamName": "GIS 단말 개발TF",
+          "userName": "박주철"
+        },
+        {
+          "productId": 75,
+          "productName": "B2B_IoTMakers ",
+          "roleId": 2,
+          "roleName": "Technical Architecture",
+          "userId": 10571795,
+          "teamName": "AI단말SW개발TF",
+          "userName": "최수용"
+        },
+        {
+          "productId": 75,
+          "productName": "B2B_IoTMakers ",
+          "roleId": 2,
+          "roleName": "Technical Architecture",
+          "userId": 10078978,
+          "teamName": "SW프로젝트TF",
+          "userName": "이용희"
+        },
+        {
+          "productId": 75,
+          "productName": "B2B_IoTMakers ",
+          "roleId": 2,
+          "roleName": "Technical Architecture",
+          "userId": 10261577,
+          "teamName": "SW개발혁신TF",
+          "userName": "박형윤"
+        }
+      ],
+      "productMemberTotal": 4
     },
     {
       "productId": 76,
       "productName": "Home_IoTMakers",
-      "regDate": "2019-08-06T16:40:33.295Z",
-      "updateDate": "2020-05-14T02:34:46.170Z",
-      "tagNames": [
-        "Hat",
-        "Armenian Dram",
-        "program",
-        "microchip",
-        "web-readiness"
-      ]
+      "regDate": "2020-02-05T19:31:06.000Z",
+      "updateDate": "2019-10-10T09:56:35.842Z",
+      "productTags": ["Palladium", "Cape Verde Escudo", "gold", "Rubber"],
+      "productMemberDtos": [
+        {
+          "productId": 76,
+          "productName": "Home_IoTMakers",
+          "roleId": 3,
+          "roleName": "Agile Coach",
+          "userId": 10749273,
+          "teamName": "스마트모빌리티",
+          "userName": "김정근"
+        },
+        {
+          "productId": 76,
+          "productName": "Home_IoTMakers",
+          "roleId": 3,
+          "roleName": "Agile Coach",
+          "userId": 10915067,
+          "teamName": "Open IoT TF ",
+          "userName": "김예진"
+        },
+        {
+          "productId": 76,
+          "productName": "Home_IoTMakers",
+          "roleId": 3,
+          "roleName": "Agile Coach",
+          "userId": 10980267,
+          "teamName": "5G Industry 플랫폼개발TF",
+          "userName": "김진수"
+        },
+        {
+          "productId": 76,
+          "productName": "Home_IoTMakers",
+          "roleId": 3,
+          "roleName": "Agile Coach",
+          "userId": 10791543,
+          "teamName": "SW개발단",
+          "userName": "옥경화"
+        }
+      ],
+      "productMemberTotal": 4
     },
     {
       "productId": 77,
       "productName": "개방형_IoTMakers",
-      "regDate": "2020-05-16T11:02:24.662Z",
-      "updateDate": "2019-12-21T19:50:25.578Z",
-      "tagNames": ["back-end", "copy", "circuit", "Bedfordshire", "Toys"]
+      "regDate": "2019-09-26T21:55:47.351Z",
+      "updateDate": "2020-04-19T18:14:32.044Z",
+      "productTags": ["card", "Architect", "Chicken"],
+      "productMemberDtos": [
+        {
+          "productId": 77,
+          "productName": "개방형_IoTMakers",
+          "roleId": 2,
+          "roleName": "Technical Architecture",
+          "userId": 10940166,
+          "teamName": "IVI솔루션개발TF",
+          "userName": "임경준"
+        },
+        {
+          "productId": 77,
+          "productName": "개방형_IoTMakers",
+          "roleId": 2,
+          "roleName": "Technical Architecture",
+          "userId": 10800206,
+          "teamName": "ConnectedCar플랫폼TF",
+          "userName": "정대기"
+        },
+        {
+          "productId": 77,
+          "productName": "개방형_IoTMakers",
+          "roleId": 2,
+          "roleName": "Technical Architecture",
+          "userId": 10627383,
+          "teamName": "융합모빌리티 플랫폼개발TF",
+          "userName": "이장원"
+        }
+      ],
+      "productMemberTotal": 3
     },
     {
       "productId": 78,
       "productName": "구축형_IoTMakers",
-      "regDate": "2020-02-23T21:27:06.235Z",
-      "updateDate": "2019-08-15T11:08:05.376Z",
-      "tagNames": ["Bedfordshire", "Handmade Concrete Pizza"]
+      "regDate": "2020-02-07T04:28:14.465Z",
+      "updateDate": "2019-11-24T06:40:59.517Z",
+      "productTags": ["Agent"],
+      "productMemberDtos": [
+        {
+          "productId": 78,
+          "productName": "구축형_IoTMakers",
+          "roleId": 3,
+          "roleName": "Agile Coach",
+          "userId": 10902888,
+          "teamName": "스마트모빌리티TF",
+          "userName": "강경인"
+        }
+      ],
+      "productMemberTotal": 1
     },
     {
       "productId": 79,
       "productName": "IoT퍼스널모빌리티",
-      "regDate": "2020-04-11T23:04:04.720Z",
-      "updateDate": "2019-09-09T04:13:02.448Z",
-      "tagNames": ["plum"]
+      "regDate": "2019-10-28T21:26:46.081Z",
+      "updateDate": "2019-07-28T12:12:40.486Z",
+      "productTags": [],
+      "productMemberDtos": [],
+      "productMemberTotal": 0
     },
     {
       "productId": 80,
       "productName": "KT Map",
-      "regDate": "2020-02-01T21:02:14.996Z",
-      "updateDate": "2019-06-01T11:15:10.608Z",
-      "tagNames": ["wireless"]
+      "regDate": "2020-03-12T21:18:20.251Z",
+      "updateDate": "2019-10-23T04:50:32.163Z",
+      "productTags": ["Auto Loan Account", "deliver", "읍"],
+      "productMemberDtos": [
+        {
+          "productId": 80,
+          "productName": "KT Map",
+          "roleId": 1,
+          "roleName": "SW Engineer",
+          "userId": 10694803,
+          "teamName": "SW아키텍처TF",
+          "userName": "정용섭"
+        },
+        {
+          "productId": 80,
+          "productName": "KT Map",
+          "roleId": 1,
+          "roleName": "SW Engineer",
+          "userId": 10333353,
+          "teamName": "AI에너지개발TF",
+          "userName": "윤정섭"
+        },
+        {
+          "productId": 80,
+          "productName": "KT Map",
+          "roleId": 1,
+          "roleName": "SW Engineer",
+          "userId": 10501259,
+          "teamName": "5GIoT플랫폼TF",
+          "userName": "이상현"
+        }
+      ],
+      "productMemberTotal": 3
     },
     {
       "productId": 81,
       "productName": "KTPNS",
-      "regDate": "2019-07-14T00:59:30.390Z",
-      "updateDate": "2019-08-13T15:15:43.424Z",
-      "tagNames": ["cyan", "time-frame"]
+      "regDate": "2019-10-15T06:16:28.383Z",
+      "updateDate": "2019-08-27T16:30:11.799Z",
+      "productTags": [
+        "Concrete",
+        "Future",
+        "Savings Account",
+        "calculating",
+        "Games"
+      ],
+      "productMemberDtos": [
+        {
+          "productId": 81,
+          "productName": "KTPNS",
+          "roleId": 3,
+          "roleName": "Agile Coach",
+          "userId": 10968266,
+          "teamName": "스마트공간플랫폼개발TF",
+          "userName": "박정진"
+        },
+        {
+          "productId": 81,
+          "productName": "KTPNS",
+          "roleId": 3,
+          "roleName": "Agile Coach",
+          "userId": 10624469,
+          "teamName": "5G Industry 플랫폼개발TF",
+          "userName": "안지운"
+        },
+        {
+          "productId": 81,
+          "productName": "KTPNS",
+          "roleId": 3,
+          "roleName": "Agile Coach",
+          "userId": 10944012,
+          "teamName": "GIS플랫폼개발TF",
+          "userName": "김민정"
+        },
+        {
+          "productId": 81,
+          "productName": "KTPNS",
+          "roleId": 3,
+          "roleName": "Agile Coach",
+          "userId": 10668206,
+          "teamName": "AI단말TF",
+          "userName": "나영일"
+        },
+        {
+          "productId": 81,
+          "productName": "KTPNS",
+          "roleId": 3,
+          "roleName": "Agile Coach",
+          "userId": 10475952,
+          "teamName": "AI단말SW개발TF",
+          "userName": "최수용"
+        }
+      ],
+      "productMemberTotal": 5
     },
     {
       "productId": 82,
       "productName": "KT_AI포털",
-      "regDate": "2019-08-10T19:53:26.477Z",
-      "updateDate": "2019-05-22T15:15:29.752Z",
-      "tagNames": []
+      "regDate": "2019-08-03T21:07:15.534Z",
+      "updateDate": "2019-10-07T01:02:52.258Z",
+      "productTags": [],
+      "productMemberDtos": [],
+      "productMemberTotal": 0
     },
     {
       "productId": 83,
       "productName": "MEG+ DataLake",
-      "regDate": "2020-01-09T18:18:10.045Z",
-      "updateDate": "2019-10-13T16:55:05.986Z",
-      "tagNames": []
+      "regDate": "2019-07-29T13:07:34.654Z",
+      "updateDate": "2020-02-02T00:49:51.568Z",
+      "productTags": [],
+      "productMemberDtos": [],
+      "productMemberTotal": 0
     },
     {
       "productId": 84,
       "productName": "Onenavi 운영",
-      "regDate": "2019-10-25T14:21:59.213Z",
-      "updateDate": "2020-03-26T07:18:21.502Z",
-      "tagNames": ["Jordanian Dinar", "green", "backing up", "cutting-edge"]
+      "regDate": "2019-08-30T11:50:59.726Z",
+      "updateDate": "2019-12-27T17:20:04.494Z",
+      "productTags": [
+        "architectures",
+        "bypassing",
+        "Electronics",
+        "seamless",
+        "indexing"
+      ],
+      "productMemberDtos": [
+        {
+          "productId": 84,
+          "productName": "Onenavi 운영",
+          "roleId": 0,
+          "roleName": "Product Manager",
+          "userId": 10705661,
+          "teamName": "AI단말TF",
+          "userName": "나영일"
+        },
+        {
+          "productId": 84,
+          "productName": "Onenavi 운영",
+          "roleId": 0,
+          "roleName": "Product Manager",
+          "userId": 10166528,
+          "teamName": "GIS서버개발TF",
+          "userName": "김태호 "
+        },
+        {
+          "productId": 84,
+          "productName": "Onenavi 운영",
+          "roleId": 0,
+          "roleName": "Product Manager",
+          "userId": 10277620,
+          "teamName": "Connected Car 글로벌사업1팀",
+          "userName": "이우재"
+        },
+        {
+          "productId": 84,
+          "productName": "Onenavi 운영",
+          "roleId": 0,
+          "roleName": "Product Manager",
+          "userId": 10395434,
+          "teamName": "GiGAtwin Project",
+          "userName": "정원우"
+        },
+        {
+          "productId": 84,
+          "productName": "Onenavi 운영",
+          "roleId": 0,
+          "roleName": "Product Manager",
+          "userId": 10061982,
+          "teamName": "IT관제운영혁신팀",
+          "userName": "전병훈"
+        }
+      ],
+      "productMemberTotal": 5
     },
     {
       "productId": 85,
       "productName": "Run2Comm && Run2Play 솔루션 개발",
-      "regDate": "2019-06-27T10:04:06.919Z",
-      "updateDate": "2020-05-13T03:45:54.224Z",
-      "tagNames": []
+      "regDate": "2019-10-26T10:18:54.279Z",
+      "updateDate": "2019-08-07T13:03:38.653Z",
+      "productTags": ["transparent"],
+      "productMemberDtos": [
+        {
+          "productId": 85,
+          "productName": "Run2Comm && Run2Play 솔루션 개발",
+          "roleId": 2,
+          "roleName": "Technical Architecture",
+          "userId": 10417261,
+          "teamName": "5G Industry 플랫폼개발TF",
+          "userName": "박경철"
+        }
+      ],
+      "productMemberTotal": 1
     },
     {
       "productId": 86,
       "productName": "SD Map 프로젝트",
-      "regDate": "2019-09-18T08:06:17.706Z",
-      "updateDate": "2019-05-30T13:47:26.683Z",
-      "tagNames": ["open-source", "Communications", "Checking Account"]
+      "regDate": "2020-02-20T00:55:36.616Z",
+      "updateDate": "2019-10-18T12:36:02.906Z",
+      "productTags": ["navigating", "Ergonomic", "redundant"],
+      "productMemberDtos": [
+        {
+          "productId": 86,
+          "productName": "SD Map 프로젝트",
+          "roleId": 3,
+          "roleName": "Agile Coach",
+          "userId": 10946637,
+          "teamName": "GIS서버개발TF",
+          "userName": "채철우"
+        },
+        {
+          "productId": 86,
+          "productName": "SD Map 프로젝트",
+          "roleId": 3,
+          "roleName": "Agile Coach",
+          "userId": 10977728,
+          "teamName": "스마트공간플랫폼팀",
+          "userName": "김영일"
+        },
+        {
+          "productId": 86,
+          "productName": "SD Map 프로젝트",
+          "roleId": 3,
+          "roleName": "Agile Coach",
+          "userId": 10062220,
+          "teamName": "SW프로젝트TF",
+          "userName": "이용희"
+        }
+      ],
+      "productMemberTotal": 3
     },
     {
       "productId": 87,
       "productName": "SW_Architecture",
-      "regDate": "2019-06-17T09:09:43.632Z",
-      "updateDate": "2020-03-13T01:43:09.398Z",
-      "tagNames": ["Dynamic", "Sports", "Rustic Plastic Cheese"]
+      "regDate": "2019-10-11T05:43:10.852Z",
+      "updateDate": "2019-09-11T10:33:04.978Z",
+      "productTags": ["Cape Verde Escudo", "drive", "Communications", "Lead"],
+      "productMemberDtos": [
+        {
+          "productId": 87,
+          "productName": "SW_Architecture",
+          "roleId": 1,
+          "roleName": "SW Engineer",
+          "userId": 10424294,
+          "teamName": "SW개발프로젝트TF",
+          "userName": "김기정"
+        },
+        {
+          "productId": 87,
+          "productName": "SW_Architecture",
+          "roleId": 1,
+          "roleName": "SW Engineer",
+          "userId": 10621161,
+          "teamName": "SW개발혁신PTF",
+          "userName": "정찬호"
+        },
+        {
+          "productId": 87,
+          "productName": "SW_Architecture",
+          "roleId": 1,
+          "roleName": "SW Engineer",
+          "userId": 10908092,
+          "teamName": "5G Industry 플랫폼개발TF",
+          "userName": "박경철"
+        },
+        {
+          "productId": 87,
+          "productName": "SW_Architecture",
+          "roleId": 1,
+          "roleName": "SW Engineer",
+          "userId": 10951852,
+          "teamName": "스마트모빌리티TF",
+          "userName": "강경인"
+        }
+      ],
+      "productMemberTotal": 4
     },
     {
       "productId": 88,
       "productName": "Agile개발플랫폼",
-      "regDate": "2020-04-13T07:20:11.412Z",
-      "updateDate": "2019-07-19T17:56:01.452Z",
-      "tagNames": ["Incredible Concrete Chicken"]
+      "regDate": "2020-05-03T06:52:46.380Z",
+      "updateDate": "2019-07-12T16:52:14.264Z",
+      "productTags": ["Granite", "면"],
+      "productMemberDtos": [
+        {
+          "productId": 88,
+          "productName": "Agile개발플랫폼",
+          "roleId": 3,
+          "roleName": "Agile Coach",
+          "userId": 10393695,
+          "teamName": "GIS단말개발 TF",
+          "userName": "이동식"
+        },
+        {
+          "productId": 88,
+          "productName": "Agile개발플랫폼",
+          "roleId": 3,
+          "roleName": "Agile Coach",
+          "userId": 10360614,
+          "teamName": "AI단말TF",
+          "userName": "나영일"
+        }
+      ],
+      "productMemberTotal": 2
     },
     {
       "productId": 89,
       "productName": "CHELSEA",
-      "regDate": "2020-02-26T09:48:28.735Z",
-      "updateDate": "2019-06-25T19:04:01.613Z",
-      "tagNames": ["Metal", "El Salvador", "cross-platform"]
+      "regDate": "2019-11-29T17:04:52.510Z",
+      "updateDate": "2019-06-11T22:15:09.504Z",
+      "productTags": ["동", "website", "deposit", "utilize", "Executive"],
+      "productMemberDtos": [
+        {
+          "productId": 89,
+          "productName": "CHELSEA",
+          "roleId": 1,
+          "roleName": "SW Engineer",
+          "userId": 10151394,
+          "teamName": "5지아이오티플랫폼개발티에프",
+          "userName": "김찬영"
+        },
+        {
+          "productId": 89,
+          "productName": "CHELSEA",
+          "roleId": 1,
+          "roleName": "SW Engineer",
+          "userId": 10378953,
+          "teamName": "IT관제운영혁신팀",
+          "userName": "성상지"
+        },
+        {
+          "productId": 89,
+          "productName": "CHELSEA",
+          "roleId": 1,
+          "roleName": "SW Engineer",
+          "userId": 10701756,
+          "teamName": "AI에너지개발TF",
+          "userName": "윤정섭"
+        },
+        {
+          "productId": 89,
+          "productName": "CHELSEA",
+          "roleId": 1,
+          "roleName": "SW Engineer",
+          "userId": 10678312,
+          "teamName": "5G IoT플랫폼 TF",
+          "userName": "방영우"
+        },
+        {
+          "productId": 89,
+          "productName": "CHELSEA",
+          "roleId": 1,
+          "roleName": "SW Engineer",
+          "userId": 10820208,
+          "teamName": "GIS서버개발TF",
+          "userName": "김태호 "
+        }
+      ],
+      "productMemberTotal": 5
     },
     {
       "productId": 90,
       "productName": "Chelsea 인증",
-      "regDate": "2020-01-05T19:30:32.842Z",
-      "updateDate": "2020-03-26T04:05:35.787Z",
-      "tagNames": ["Corporate"]
+      "regDate": "2019-05-23T15:00:53.098Z",
+      "updateDate": "2020-03-02T17:12:21.878Z",
+      "productTags": ["Refined", "web-readiness"],
+      "productMemberDtos": [
+        {
+          "productId": 90,
+          "productName": "Chelsea 인증",
+          "roleId": 1,
+          "roleName": "SW Engineer",
+          "userId": 10891702,
+          "teamName": "5G IoT플랫폼개발TF",
+          "userName": "신규철"
+        },
+        {
+          "productId": 90,
+          "productName": "Chelsea 인증",
+          "roleId": 1,
+          "roleName": "SW Engineer",
+          "userId": 10642254,
+          "teamName": "GIS서버개발TF",
+          "userName": "조혜진"
+        }
+      ],
+      "productMemberTotal": 2
     },
     {
       "productId": 91,
       "productName": "Developer Network",
-      "regDate": "2020-05-11T20:02:07.625Z",
-      "updateDate": "2019-11-05T02:58:08.881Z",
-      "tagNames": ["fuchsia", "Puerto Rico"]
+      "regDate": "2019-08-22T09:48:13.621Z",
+      "updateDate": "2020-01-11T20:27:29.606Z",
+      "productTags": [
+        "Small Plastic Table",
+        "transmit",
+        "Handcrafted Granite Gloves"
+      ],
+      "productMemberDtos": [
+        {
+          "productId": 91,
+          "productName": "Developer Network",
+          "roleId": 2,
+          "roleName": "Technical Architecture",
+          "userId": 10988807,
+          "teamName": "Open IoT TF ",
+          "userName": "김예진"
+        },
+        {
+          "productId": 91,
+          "productName": "Developer Network",
+          "roleId": 2,
+          "roleName": "Technical Architecture",
+          "userId": 10130062,
+          "teamName": "5G IoT 플랫폼 TF",
+          "userName": "김승남"
+        },
+        {
+          "productId": 91,
+          "productName": "Developer Network",
+          "roleId": 2,
+          "roleName": "Technical Architecture",
+          "userId": 10379349,
+          "teamName": "융합모빌리티 플랫폼개발TF",
+          "userName": "김낙현"
+        }
+      ],
+      "productMemberTotal": 3
     },
     {
       "productId": 92,
       "productName": "Toppings!",
-      "regDate": "2019-12-31T15:13:50.824Z",
-      "updateDate": "2020-01-16T17:43:23.820Z",
-      "tagNames": ["읍"]
+      "regDate": "2019-07-30T16:24:07.666Z",
+      "updateDate": "2019-07-29T18:28:50.735Z",
+      "productTags": [],
+      "productMemberDtos": [],
+      "productMemberTotal": 0
     },
     {
       "productId": 93,
       "productName": "DevOpsFullChain",
-      "regDate": "2019-08-20T09:30:01.747Z",
-      "updateDate": "2019-10-06T17:17:59.898Z",
-      "tagNames": ["India"]
+      "regDate": "2020-01-10T16:06:09.730Z",
+      "updateDate": "2019-08-29T09:21:54.662Z",
+      "productTags": ["superstructure", "evolve", "FTP", "읍"],
+      "productMemberDtos": [
+        {
+          "productId": 93,
+          "productName": "DevOpsFullChain",
+          "roleId": 0,
+          "roleName": "Product Manager",
+          "userId": 10795860,
+          "teamName": "Connected Car 플랫폼 TF",
+          "userName": "김성화"
+        },
+        {
+          "productId": 93,
+          "productName": "DevOpsFullChain",
+          "roleId": 0,
+          "roleName": "Product Manager",
+          "userId": 10923326,
+          "teamName": "ConnectedCar플랫폼TF",
+          "userName": "이정용"
+        },
+        {
+          "productId": 93,
+          "productName": "DevOpsFullChain",
+          "roleId": 0,
+          "roleName": "Product Manager",
+          "userId": 10201862,
+          "teamName": "AI개발PTF",
+          "userName": "박기철"
+        },
+        {
+          "productId": 93,
+          "productName": "DevOpsFullChain",
+          "roleId": 0,
+          "roleName": "Product Manager",
+          "userId": 10344357,
+          "teamName": "융합모빌리티플랫폼개발TF",
+          "userName": "박희정"
+        }
+      ],
+      "productMemberTotal": 4
     },
     {
       "productId": 94,
       "productName": "CI/CD Pipeline 최적화",
-      "regDate": "2019-10-02T13:06:19.739Z",
-      "updateDate": "2019-10-25T20:47:07.223Z",
-      "tagNames": [
-        "Aruba",
-        "Slovakia (Slovak Republic)",
-        "Hat",
-        "Tools",
-        "Bike"
-      ]
+      "regDate": "2020-03-28T12:37:42.738Z",
+      "updateDate": "2019-06-27T14:48:48.799Z",
+      "productTags": ["reboot", "back up", "payment", "monitor", "Corporate"],
+      "productMemberDtos": [
+        {
+          "productId": 94,
+          "productName": "CI/CD Pipeline 최적화",
+          "roleId": 2,
+          "roleName": "Technical Architecture",
+          "userId": 10980405,
+          "teamName": "GIS서버개발TF",
+          "userName": "채철우"
+        },
+        {
+          "productId": 94,
+          "productName": "CI/CD Pipeline 최적화",
+          "roleId": 2,
+          "roleName": "Technical Architecture",
+          "userId": 10137691,
+          "teamName": "GiGAtwin Project",
+          "userName": "정원우"
+        },
+        {
+          "productId": 94,
+          "productName": "CI/CD Pipeline 최적화",
+          "roleId": 2,
+          "roleName": "Technical Architecture",
+          "userId": 10301437,
+          "teamName": "GIS플랫폼개발TF",
+          "userName": "한근석"
+        },
+        {
+          "productId": 94,
+          "productName": "CI/CD Pipeline 최적화",
+          "roleId": 2,
+          "roleName": "Technical Architecture",
+          "userId": 10928916,
+          "teamName": "Open IoT TF ",
+          "userName": "김예진"
+        },
+        {
+          "productId": 94,
+          "productName": "CI/CD Pipeline 최적화",
+          "roleId": 2,
+          "roleName": "Technical Architecture",
+          "userId": 10357881,
+          "teamName": "GIS개발기획",
+          "userName": "김건도"
+        }
+      ],
+      "productMemberTotal": 5
     },
     {
       "productId": 95,
       "productName": "NEWDEAL",
-      "regDate": "2019-07-02T15:29:39.003Z",
-      "updateDate": "2019-11-06T10:23:30.222Z",
-      "tagNames": [
-        "customer loyalty",
-        "FTP",
-        "Practical Plastic Pants",
-        "connect"
-      ]
+      "regDate": "2019-10-29T16:38:59.488Z",
+      "updateDate": "2019-07-05T15:13:48.760Z",
+      "productTags": [
+        "읍",
+        "purple",
+        "enable",
+        "Investment Account",
+        "Generic"
+      ],
+      "productMemberDtos": [
+        {
+          "productId": 95,
+          "productName": "NEWDEAL",
+          "roleId": 1,
+          "roleName": "SW Engineer",
+          "userId": 10925017,
+          "teamName": "Connected Car 플랫폼 TF",
+          "userName": "김성화"
+        },
+        {
+          "productId": 95,
+          "productName": "NEWDEAL",
+          "roleId": 1,
+          "roleName": "SW Engineer",
+          "userId": 10110778,
+          "teamName": "IT관제운영혁신팀",
+          "userName": "전병훈"
+        },
+        {
+          "productId": 95,
+          "productName": "NEWDEAL",
+          "roleId": 1,
+          "roleName": "SW Engineer",
+          "userId": 10072317,
+          "teamName": "SW아키텍처TF",
+          "userName": "정용섭"
+        },
+        {
+          "productId": 95,
+          "productName": "NEWDEAL",
+          "roleId": 1,
+          "roleName": "SW Engineer",
+          "userId": 10458388,
+          "teamName": "SW개발혁신TF",
+          "userName": "박형윤"
+        },
+        {
+          "productId": 95,
+          "productName": "NEWDEAL",
+          "roleId": 1,
+          "roleName": "SW Engineer",
+          "userId": 10105969,
+          "teamName": "Connected Car 플랫폼 TF",
+          "userName": "백기영"
+        }
+      ],
+      "productMemberTotal": 5
     },
     {
       "productId": 96,
       "productName": "하위프로",
-      "regDate": "2019-08-17T13:16:50.660Z",
-      "updateDate": "2020-05-18T09:17:34.464Z",
-      "tagNames": ["Vanuatu", "logistical", "Web", "Armenian Dram"]
+      "regDate": "2019-12-01T00:10:07.950Z",
+      "updateDate": "2019-06-16T04:46:56.689Z",
+      "productTags": ["embrace", "sensor", "대구", "e-commerce"],
+      "productMemberDtos": [
+        {
+          "productId": 96,
+          "productName": "하위프로",
+          "roleId": 2,
+          "roleName": "Technical Architecture",
+          "userId": 10134907,
+          "teamName": "AI개발PTF",
+          "userName": "박기철"
+        },
+        {
+          "productId": 96,
+          "productName": "하위프로",
+          "roleId": 2,
+          "roleName": "Technical Architecture",
+          "userId": 10737412,
+          "teamName": "GiGAtwin Project",
+          "userName": "정원우"
+        },
+        {
+          "productId": 96,
+          "productName": "하위프로",
+          "roleId": 2,
+          "roleName": "Technical Architecture",
+          "userId": 10640882,
+          "teamName": "IVI솔루션개발TF",
+          "userName": "이동식"
+        },
+        {
+          "productId": 96,
+          "productName": "하위프로",
+          "roleId": 2,
+          "roleName": "Technical Architecture",
+          "userId": 10190951,
+          "teamName": "스마트모빌리티TF",
+          "userName": "강경인"
+        }
+      ],
+      "productMemberTotal": 4
     },
     {
       "productId": 97,
       "productName": "하위프로젝트",
-      "regDate": "2019-07-29T07:02:53.776Z",
-      "updateDate": "2019-08-18T23:54:01.268Z",
-      "tagNames": ["impactful"]
+      "regDate": "2020-02-25T15:50:33.189Z",
+      "updateDate": "2019-07-20T00:00:50.394Z",
+      "productTags": ["global", "Home", "면", "Baby"],
+      "productMemberDtos": [
+        {
+          "productId": 97,
+          "productName": "하위프로젝트",
+          "roleId": 3,
+          "roleName": "Agile Coach",
+          "userId": 10893691,
+          "teamName": "스마트모빌리티TF",
+          "userName": "김선민"
+        },
+        {
+          "productId": 97,
+          "productName": "하위프로젝트",
+          "roleId": 3,
+          "roleName": "Agile Coach",
+          "userId": 10719814,
+          "teamName": "SW개발혁신팀",
+          "userName": "고희선"
+        },
+        {
+          "productId": 97,
+          "productName": "하위프로젝트",
+          "roleId": 3,
+          "roleName": "Agile Coach",
+          "userId": 10466841,
+          "teamName": "GIS서버개발TF",
+          "userName": "장원철"
+        },
+        {
+          "productId": 97,
+          "productName": "하위프로젝트",
+          "roleId": 3,
+          "roleName": "Agile Coach",
+          "userId": 10894886,
+          "teamName": "GIS플랫폼개발TF",
+          "userName": "조홍범"
+        }
+      ],
+      "productMemberTotal": 4
     },
     {
       "productId": 98,
       "productName": "Fast-Track개발지원",
-      "regDate": "2019-11-01T12:17:39.176Z",
-      "updateDate": "2019-12-15T06:06:54.624Z",
-      "tagNames": []
+      "regDate": "2019-12-01T02:36:22.844Z",
+      "updateDate": "2019-09-03T10:53:50.418Z",
+      "productTags": ["indexing", "Kuwait", "SMS"],
+      "productMemberDtos": [
+        {
+          "productId": 98,
+          "productName": "Fast-Track개발지원",
+          "roleId": 0,
+          "roleName": "Product Manager",
+          "userId": 10726587,
+          "teamName": "사업운영1팀",
+          "userName": "김대희"
+        },
+        {
+          "productId": 98,
+          "productName": "Fast-Track개발지원",
+          "roleId": 0,
+          "roleName": "Product Manager",
+          "userId": 10070396,
+          "teamName": "융합모빌리티플랫폼개발TF",
+          "userName": "박희정"
+        },
+        {
+          "productId": 98,
+          "productName": "Fast-Track개발지원",
+          "roleId": 0,
+          "roleName": "Product Manager",
+          "userId": 10873874,
+          "teamName": "SW개발프로젝트TF",
+          "userName": "김기정"
+        }
+      ],
+      "productMemberTotal": 3
     },
     {
       "productId": 99,
       "productName": "RESTldap",
-      "regDate": "2019-10-27T17:13:50.646Z",
-      "updateDate": "2019-09-27T16:23:40.413Z",
-      "tagNames": ["Mandatory", "override", "user-centric"]
+      "regDate": "2020-02-23T16:14:43.806Z",
+      "updateDate": "2019-11-21T23:41:17.066Z",
+      "productTags": ["whiteboard"],
+      "productMemberDtos": [
+        {
+          "productId": 99,
+          "productName": "RESTldap",
+          "roleId": 0,
+          "roleName": "Product Manager",
+          "userId": 10625120,
+          "teamName": "Connected Car 플랫폼TF",
+          "userName": "박병준"
+        }
+      ],
+      "productMemberTotal": 1
     },
     {
       "productId": 100,
       "productName": "commonsecurity",
-      "regDate": "2020-02-12T13:50:08.892Z",
-      "updateDate": "2019-06-27T12:17:10.978Z",
-      "tagNames": [
-        "transmitter",
-        "Buckinghamshire",
-        "Money Market Account",
-        "Specialist"
-      ]
+      "regDate": "2020-01-07T09:19:45.978Z",
+      "updateDate": "2020-03-02T23:06:52.466Z",
+      "productTags": ["parsing", "Bedfordshire"],
+      "productMemberDtos": [
+        {
+          "productId": 100,
+          "productName": "commonsecurity",
+          "roleId": 3,
+          "roleName": "Agile Coach",
+          "userId": 10633404,
+          "teamName": "Open IoT TF",
+          "userName": "박경원"
+        },
+        {
+          "productId": 100,
+          "productName": "commonsecurity",
+          "roleId": 3,
+          "roleName": "Agile Coach",
+          "userId": 10287453,
+          "teamName": "Connected Car 사업운영1팀",
+          "userName": "박현자"
+        }
+      ],
+      "productMemberTotal": 2
     }
   ]
 }
